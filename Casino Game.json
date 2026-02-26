@@ -15,7 +15,7 @@
     "packageName": "com.example.gamename",
     "pixelsRounding": false,
     "projectUuid": "03781580-40a4-44f6-8f41-22173831b04b",
-    "scaleMode": "linear",
+    "scaleMode": "nearest",
     "sizeOnStartupMode": "",
     "templateSlug": "starting-top-down",
     "version": "1.0.0",
