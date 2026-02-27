@@ -161,7 +161,7 @@
       {
         "file": "assets/2D_TopDown_Tileset_Casino_1024x512.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/2D_TopDown_Tileset_Casino_1024x512.png\",\"extension\":\".png\",\"pskl\":{}}",
         "name": "assets\\2D_TopDown_Tileset_Casino_1024x512.png",
         "smoothed": false,
         "userAdded": false
@@ -649,7 +649,7 @@
       {
         "file": "assets/DoorLeft7.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/DoorLeft7.png\"}",
         "name": "DoorLeft7",
         "smoothed": false,
         "userAdded": false
@@ -717,6 +717,214 @@
         "name": "Door Right8",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/assets_2D_TopDown_Tileset_Casino_1024x512.png5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\2D_TopDown_Tileset_Casino_1024x512.png2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_2D_TopDown_Tileset_Casino_1024x512.png6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\2D_TopDown_Tileset_Casino_1024x512.png3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Casino-Game-main/assets/2D_TopDown_Tileset_Casino_1024x512.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Casino-Game-main\\assets\\2D_TopDown_Tileset_Casino_1024x512.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Casino-Game-main_assets_2D_TopDown_Tileset_Casino_1024x512.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Casino-Game-main\\assets\\2D_TopDown_Tileset_Casino_1024x512.png2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DoorLeft8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/DoorLeft8.png\"}",
+        "name": "DoorLeft8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DoorLeft9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/DoorLeft9.png\"}",
+        "name": "DoorLeft9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DoorLeft10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/DoorLeft10.png\"}",
+        "name": "DoorLeft10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DoorLeft11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/DoorLeft11.png\"}",
+        "name": "DoorLeft11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DoorLeft12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/DoorLeft12.png\"}",
+        "name": "DoorLeft12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DoorLeft13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/DoorLeft13.png\"}",
+        "name": "DoorLeft13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DoorLeft14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/DoorLeft14.png\"}",
+        "name": "DoorLeft14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door Left Closed.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Left Closed",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door Left Closed2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Left Closed2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door Left.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Left",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door Left2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Left2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door Left3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Left3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door Left4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Left4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door Left5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Left5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door Left6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Left6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door Left7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Left7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door Left8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Left8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door Left9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Left9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door Left10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Left10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door Left11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Left11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door Left12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Left12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door Left13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Left13",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -732,7 +940,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "DoorLeft",
+          "name": "Door Left Closed",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -742,7 +950,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "DoorLeft",
+                  "image": "Door Left Closed2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -750,35 +958,47 @@
                     "y": 0
                   },
                   "centerPoint": {
-                    "automatic": true,
+                    "automatic": false,
                     "name": "centre",
-                    "x": 0,
-                    "y": 0
+                    "x": 10,
+                    "y": 24
                   },
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 10
+                        "x": 20,
+                        "y": 46
                       },
                       {
                         "x": 20,
-                        "y": 10
-                      },
-                      {
-                        "x": 20,
-                        "y": 48
+                        "y": 40.5
                       },
                       {
                         "x": 0,
-                        "y": 48
+                        "y": 40.5
+                      },
+                      {
+                        "x": 0,
+                        "y": 46
                       }
                     ]
                   ]
-                },
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Door Right Closed",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "DoorLeft2",
+                  "image": "Door Right",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -786,211 +1006,12 @@
                     "y": 0
                   },
                   "centerPoint": {
-                    "automatic": true,
+                    "automatic": false,
                     "name": "centre",
-                    "x": 0,
-                    "y": 0
+                    "x": 10,
+                    "y": 24
                   },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 10
-                      },
-                      {
-                        "x": 20,
-                        "y": 10
-                      },
-                      {
-                        "x": 20,
-                        "y": 48
-                      },
-                      {
-                        "x": 0,
-                        "y": 48
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "DoorLeft3",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 10
-                      },
-                      {
-                        "x": 20,
-                        "y": 10
-                      },
-                      {
-                        "x": 20,
-                        "y": 48
-                      },
-                      {
-                        "x": 0,
-                        "y": 48
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "DoorLeft4",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 10
-                      },
-                      {
-                        "x": 20,
-                        "y": 10
-                      },
-                      {
-                        "x": 20,
-                        "y": 48
-                      },
-                      {
-                        "x": 0,
-                        "y": 48
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "DoorLeft5",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 10
-                      },
-                      {
-                        "x": 20,
-                        "y": 10
-                      },
-                      {
-                        "x": 20,
-                        "y": 48
-                      },
-                      {
-                        "x": 0,
-                        "y": 48
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "DoorLeft6",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 10
-                      },
-                      {
-                        "x": 20,
-                        "y": 10
-                      },
-                      {
-                        "x": 20,
-                        "y": 48
-                      },
-                      {
-                        "x": 0,
-                        "y": 48
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "DoorLeft7",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 10
-                      },
-                      {
-                        "x": 20,
-                        "y": 10
-                      },
-                      {
-                        "x": 20,
-                        "y": 48
-                      },
-                      {
-                        "x": 0,
-                        "y": 48
-                      }
-                    ]
-                  ]
+                  "customCollisionMask": []
                 }
               ]
             }
@@ -1015,10 +1036,10 @@
                     "y": 0
                   },
                   "centerPoint": {
-                    "automatic": true,
+                    "automatic": false,
                     "name": "centre",
-                    "x": 0,
-                    "y": 0
+                    "x": 10,
+                    "y": 24
                   },
                   "customCollisionMask": [
                     [
@@ -1051,10 +1072,10 @@
                     "y": 0
                   },
                   "centerPoint": {
-                    "automatic": true,
+                    "automatic": false,
                     "name": "centre",
-                    "x": 0,
-                    "y": 0
+                    "x": 10,
+                    "y": 24
                   },
                   "customCollisionMask": [
                     [
@@ -1087,10 +1108,10 @@
                     "y": 0
                   },
                   "centerPoint": {
-                    "automatic": true,
+                    "automatic": false,
                     "name": "centre",
-                    "x": 0,
-                    "y": 0
+                    "x": 10,
+                    "y": 24
                   },
                   "customCollisionMask": [
                     [
@@ -1123,10 +1144,10 @@
                     "y": 0
                   },
                   "centerPoint": {
-                    "automatic": true,
+                    "automatic": false,
                     "name": "centre",
-                    "x": 0,
-                    "y": 0
+                    "x": 10,
+                    "y": 24
                   },
                   "customCollisionMask": [
                     [
@@ -1159,10 +1180,10 @@
                     "y": 0
                   },
                   "centerPoint": {
-                    "automatic": true,
+                    "automatic": false,
                     "name": "centre",
-                    "x": 0,
-                    "y": 0
+                    "x": 10,
+                    "y": 24
                   },
                   "customCollisionMask": [
                     [
@@ -1195,10 +1216,10 @@
                     "y": 0
                   },
                   "centerPoint": {
-                    "automatic": true,
+                    "automatic": false,
                     "name": "centre",
-                    "x": 0,
-                    "y": 0
+                    "x": 10,
+                    "y": 24
                   },
                   "customCollisionMask": [
                     [
@@ -1231,10 +1252,10 @@
                     "y": 0
                   },
                   "centerPoint": {
-                    "automatic": true,
+                    "automatic": false,
                     "name": "centre",
-                    "x": 0,
-                    "y": 0
+                    "x": 10,
+                    "y": 24
                   },
                   "customCollisionMask": [
                     [
@@ -1267,10 +1288,46 @@
                     "y": 0
                   },
                   "centerPoint": {
-                    "automatic": true,
+                    "automatic": false,
                     "name": "centre",
+                    "x": 10,
+                    "y": 24
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 315,
+                        "y": 11.5
+                      },
+                      {
+                        "x": 336,
+                        "y": 10.5
+                      },
+                      {
+                        "x": 336,
+                        "y": 48
+                      },
+                      {
+                        "x": 316,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Right",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
                     "x": 0,
                     "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 10,
+                    "y": 24
                   },
                   "customCollisionMask": [
                     [
@@ -1296,6 +1353,947 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Door Left",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.1,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Left",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 10,
+                    "y": 24
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 46
+                      },
+                      {
+                        "x": 0,
+                        "y": 46
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Left2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 10,
+                    "y": 24
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 46
+                      },
+                      {
+                        "x": 0,
+                        "y": 46
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Left3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 10,
+                    "y": 24
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 46
+                      },
+                      {
+                        "x": 0,
+                        "y": 46
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Left4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 10,
+                    "y": 24
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 46
+                      },
+                      {
+                        "x": 0,
+                        "y": 46
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Left5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 10,
+                    "y": 24
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 46
+                      },
+                      {
+                        "x": 0,
+                        "y": 46
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Left6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 10,
+                    "y": 24
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 46
+                      },
+                      {
+                        "x": 0,
+                        "y": 46
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Left7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 10,
+                    "y": 24
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 46
+                      },
+                      {
+                        "x": 0,
+                        "y": 46
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Left7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 10,
+                    "y": 24
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 46
+                      },
+                      {
+                        "x": 0,
+                        "y": 46
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Left7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 10,
+                    "y": 24
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 46
+                      },
+                      {
+                        "x": 0,
+                        "y": 46
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Left7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 10,
+                    "y": 24
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 46
+                      },
+                      {
+                        "x": 0,
+                        "y": 46
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Left7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 10,
+                    "y": 24
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 46
+                      },
+                      {
+                        "x": 0,
+                        "y": 46
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Left7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 10,
+                    "y": 24
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 46
+                      },
+                      {
+                        "x": 0,
+                        "y": 46
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Left7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 10,
+                    "y": 24
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 46
+                      },
+                      {
+                        "x": 0,
+                        "y": 46
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Left7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 10,
+                    "y": 24
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 46
+                      },
+                      {
+                        "x": 0,
+                        "y": 46
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Left7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 10,
+                    "y": 24
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 46
+                      },
+                      {
+                        "x": 0,
+                        "y": 46
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Left7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 10,
+                    "y": 24
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 46
+                      },
+                      {
+                        "x": 0,
+                        "y": 46
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Left8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 10,
+                    "y": 24
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 46
+                      },
+                      {
+                        "x": 0,
+                        "y": 46
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Left9",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 10,
+                    "y": 24
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 46
+                      },
+                      {
+                        "x": 0,
+                        "y": 46
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Left10",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 10,
+                    "y": 24
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 46
+                      },
+                      {
+                        "x": 0,
+                        "y": 46
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Left11",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 10,
+                    "y": 24
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 46
+                      },
+                      {
+                        "x": 0,
+                        "y": 46
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Left12",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 10,
+                    "y": 24
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 46
+                      },
+                      {
+                        "x": 0,
+                        "y": 46
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Left13",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 10,
+                    "y": 24
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 41.5
+                      },
+                      {
+                        "x": 20,
+                        "y": 46
+                      },
+                      {
+                        "x": 0,
+                        "y": 46
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Player",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "SmoothCamera",
+          "type": "SmoothCamera::SmoothCamera",
+          "LeftwardSpeed": 0.9,
+          "RightwardSpeed": 0.9,
+          "UpwardSpeed": 0.9,
+          "DownwardSpeed": 0.9,
+          "FollowOnX": true,
+          "FollowOnY": true,
+          "FollowFreeAreaLeft": 0,
+          "FollowFreeAreaRight": 0,
+          "FollowFreeAreaTop": 0,
+          "FollowFreeAreaBottom": 0,
+          "CameraOffsetX": 0,
+          "CameraOffsetY": 0,
+          "CameraDelay": 0,
+          "ForecastTime": 0,
+          "ForecastHistoryDuration": 0,
+          "LogLeftwardSpeed": 2.0247e-320,
+          "LogRightwardSpeed": 2.0247e-320,
+          "LogDownwardSpeed": 2.0247e-320,
+          "LogUpwardSpeed": 2.0247e-320,
+          "DelayedCenterX": 2.0247e-320,
+          "DelayedCenterY": 2.0247e-320,
+          "ForecastHistoryMeanX": 2.0247e-320,
+          "ForecastHistoryMeanY": 2.0247e-320,
+          "ForecastHistoryVarianceX": 2.0247e-320,
+          "ForecastHistoryCovariance": 2.0247e-320,
+          "ForecastHistoryLinearA": 2.0247e-320,
+          "ForecastHistoryLinearB": 2.0247e-320,
+          "ForecastedX": 2.0247e-320,
+          "ForecastedY": 2.0247e-320,
+          "ProjectedNewestX": 2.0247e-320,
+          "ProjectedNewestY": 2.0247e-320,
+          "ProjectedOldestX": 2.0247e-320,
+          "ProjectedOldestY": 2.0247e-320,
+          "ForecastHistoryVarianceY": 2.0247e-320,
+          "Index": 2.0247e-320,
+          "CameraDelayCatchUpSpeed": 0,
+          "CameraExtraDelay": 2.0247e-320,
+          "WaitingSpeedXMax": 2.0247e-320,
+          "WaitingSpeedYMax": 2.0247e-320,
+          "WaitingEnd": 2.0247e-320,
+          "CameraDelayCatchUpDuration": 2.0247e-320,
+          "LeftwardSpeedMax": 9000,
+          "RightwardSpeedMax": 9000,
+          "UpwardSpeedMax": 9000,
+          "DownwardSpeedMax": 9000,
+          "OldX": 9000.000000007454,
+          "OldY": 9000.000000007454,
+          "IsCalledManually": false
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior",
+          "acceleration": 700,
+          "maxSpeed": 300,
+          "angularMaxSpeed": 300,
+          "deceleration": 900,
+          "allowDiagonals": true,
+          "angleOffset": 0,
+          "customIsometryAngle": 30,
+          "ignoreDefaultControls": false,
+          "movementAngleOffset": 0,
+          "rotateObject": true,
+          "viewpoint": "TopDown"
+        },
+        {
+          "name": "TopDownMultitouchMapper",
+          "type": "SpriteMultitouchJoystick::TopDownMultitouchMapper",
+          "TopDownMovement": "TopDownMovement",
+          "ControllerIdentifier": 1,
+          "JoystickIdentifier": "Primary",
+          "StickMode": "Analog"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\StartingPlayer.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 62,
+                        "y": 2
+                      },
+                      {
+                        "x": 62,
+                        "y": 62
+                      },
+                      {
+                        "x": 2,
+                        "y": 62
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     }
@@ -1305,6 +2303,9 @@
     "children": [
       {
         "objectName": "Doors"
+      },
+      {
+        "objectName": "Player"
       }
     ]
   },
@@ -1333,7 +2334,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.301046119718247,
+        "zoomFactor": 0.3437520241612329,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -1359,76 +2360,6 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "locked": true,
-          "name": "Ground_Tilemap",
-          "persistentUuid": "140c37d7-fd0a-4882-83ed-142e8f549ba8",
-          "width": 0,
-          "x": -64,
-          "y": -64,
-          "zOrder": -2,
-          "numberProperties": [],
-          "stringProperties": [
-            {
-              "name": "tilemap",
-              "value": "{\"tileWidth\":64,\"tileHeight\":64,\"dimX\":22,\"dimY\":13,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,0,3,7,7,7,7,7,7,7,7,7,7,7,7,7,7,5,0,0,0],[0,0,0,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,0,0,2],[0,0,0,7,7,0,0,0,0,0,0,0,0,0,0,2,0,7,7,0,0,0],[0,2,0,7,7,0,1,2,0,1,0,0,0,0,2,0,0,7,7,0,0,0],[0,0,0,7,7,0,0,0,0,0,0,0,0,0,0,0,0,7,7,0,0,0],[0,0,0,7,7,0,0,0,0,0,0,0,0,0,0,1,0,7,7,0,0,0],[0,0,0,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,0,0,0],[0,0,0,6,7,7,7,7,7,7,7,7,7,7,7,7,7,7,8,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0]]}]}"
-            }
-          ],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Plant_Obstacle",
-          "persistentUuid": "1ef6f774-a666-42ab-bcc0-4ecdb8656e6a",
-          "width": 0,
-          "x": 1152,
-          "y": 192,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Plant_Obstacle",
-          "persistentUuid": "a95eccb9-3ddc-4f20-aeec-55dd40e9cf56",
-          "width": 0,
-          "x": 256,
-          "y": 64,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Plant_Obstacle",
-          "persistentUuid": "726d874b-fb5d-4e42-82f6-c3d2ab5aefbd",
-          "width": 0,
-          "x": 896,
-          "y": 640,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": true,
           "depth": 1,
           "height": 128,
@@ -1440,134 +2371,6 @@
           "x": 0,
           "y": 384,
           "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Plant_Obstacle",
-          "persistentUuid": "6dabd131-ae06-40b2-930f-50d1e7026310",
-          "width": 0,
-          "x": 576,
-          "y": 640,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Plant_Obstacle",
-          "persistentUuid": "4422fbf3-9071-4d22-97ee-f258cac25ee2",
-          "width": 0,
-          "x": 192,
-          "y": 64,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Plant_Obstacle",
-          "persistentUuid": "feccce61-ac7a-40f8-925e-84ce0766fc15",
-          "width": 0,
-          "x": 384,
-          "y": 64,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Plant_Obstacle",
-          "persistentUuid": "4a78f239-4eba-4792-a457-8b997763e8eb",
-          "width": 0,
-          "x": 640,
-          "y": 448,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Plant_Obstacle",
-          "persistentUuid": "e8b8a032-ae32-41b2-9468-0aad5f3d0e6c",
-          "width": 0,
-          "x": 1152,
-          "y": 448,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Plant_Obstacle",
-          "persistentUuid": "0558feb8-600f-40b6-b474-67ea4d4a7bd2",
-          "width": 0,
-          "x": 1152,
-          "y": 384,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Plant_Obstacle",
-          "persistentUuid": "cb56c589-3dec-471f-9f78-46c50bc95adc",
-          "width": 0,
-          "x": 768,
-          "y": 640,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Plant_Obstacle",
-          "persistentUuid": "b18f0870-688b-448d-a660-b6012462631f",
-          "width": 0,
-          "x": 704,
-          "y": 448,
-          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1609,157 +2412,6 @@
       ],
       "objects": [
         {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "Player",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "SmoothCamera",
-              "type": "SmoothCamera::SmoothCamera",
-              "LeftwardSpeed": 0.9,
-              "RightwardSpeed": 0.9,
-              "UpwardSpeed": 0.9,
-              "DownwardSpeed": 0.9,
-              "FollowOnX": true,
-              "FollowOnY": true,
-              "FollowFreeAreaLeft": 0,
-              "FollowFreeAreaRight": 0,
-              "FollowFreeAreaTop": 0,
-              "FollowFreeAreaBottom": 0,
-              "CameraOffsetX": 0,
-              "CameraOffsetY": 0,
-              "CameraDelay": 0,
-              "ForecastTime": 0,
-              "ForecastHistoryDuration": 0,
-              "LogLeftwardSpeed": 2.0247e-320,
-              "LogRightwardSpeed": 2.0247e-320,
-              "LogDownwardSpeed": 2.0247e-320,
-              "LogUpwardSpeed": 2.0247e-320,
-              "DelayedCenterX": 2.0247e-320,
-              "DelayedCenterY": 2.0247e-320,
-              "ForecastHistoryMeanX": 2.0247e-320,
-              "ForecastHistoryMeanY": 2.0247e-320,
-              "ForecastHistoryVarianceX": 2.0247e-320,
-              "ForecastHistoryCovariance": 2.0247e-320,
-              "ForecastHistoryLinearA": 2.0247e-320,
-              "ForecastHistoryLinearB": 2.0247e-320,
-              "ForecastedX": 2.0247e-320,
-              "ForecastedY": 2.0247e-320,
-              "ProjectedNewestX": 2.0247e-320,
-              "ProjectedNewestY": 2.0247e-320,
-              "ProjectedOldestX": 2.0247e-320,
-              "ProjectedOldestY": 2.0247e-320,
-              "ForecastHistoryVarianceY": 2.0247e-320,
-              "Index": 2.0247e-320,
-              "CameraDelayCatchUpSpeed": 0,
-              "CameraExtraDelay": 2.0247e-320,
-              "WaitingSpeedXMax": 2.0247e-320,
-              "WaitingSpeedYMax": 2.0247e-320,
-              "WaitingEnd": 2.0247e-320,
-              "CameraDelayCatchUpDuration": 2.0247e-320,
-              "LeftwardSpeedMax": 9000,
-              "RightwardSpeedMax": 9000,
-              "UpwardSpeedMax": 9000,
-              "DownwardSpeedMax": 9000,
-              "OldX": 9000.000000007454,
-              "OldY": 9000.000000007454,
-              "IsCalledManually": false
-            },
-            {
-              "name": "TopDownMovement",
-              "type": "TopDownMovementBehavior::TopDownMovementBehavior",
-              "acceleration": 700,
-              "maxSpeed": 300,
-              "angularMaxSpeed": 300,
-              "deceleration": 900,
-              "allowDiagonals": true,
-              "angleOffset": 0,
-              "customIsometryAngle": 30,
-              "ignoreDefaultControls": false,
-              "movementAngleOffset": 0,
-              "rotateObject": true,
-              "viewpoint": "TopDown"
-            },
-            {
-              "name": "TopDownMultitouchMapper",
-              "type": "SpriteMultitouchJoystick::TopDownMultitouchMapper",
-              "TopDownMovement": "TopDownMovement",
-              "ControllerIdentifier": 1,
-              "JoystickIdentifier": "Primary",
-              "StickMode": "Analog"
-            }
-          ],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\StartingPlayer.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 2
-                          },
-                          {
-                            "x": 62,
-                            "y": 2
-                          },
-                          {
-                            "x": 62,
-                            "y": 62
-                          },
-                          {
-                            "x": 2,
-                            "y": 62
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "Ground_Tilemap",
-          "type": "TileMap::SimpleTileMap",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "atlasImage": "assets\\StartingGroundTilemap.png",
-            "rowCount": 3,
-            "columnCount": 3,
-            "tileSize": 64,
-            "tilesWithHitBox": ""
-          }
-        },
-        {
           "assetStoreId": "",
           "height": 64,
           "name": "Wall_Obstacle",
@@ -1769,82 +2421,6 @@
           "variables": [],
           "effects": [],
           "behaviors": []
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "Plant_Obstacle",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\StartingObstacle.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 32
-                          },
-                          {
-                            "x": 12,
-                            "y": 12
-                          },
-                          {
-                            "x": 32,
-                            "y": 3
-                          },
-                          {
-                            "x": 52,
-                            "y": 12
-                          },
-                          {
-                            "x": 61,
-                            "y": 32
-                          },
-                          {
-                            "x": 52,
-                            "y": 52
-                          },
-                          {
-                            "x": 32,
-                            "y": 61
-                          },
-                          {
-                            "x": 12,
-                            "y": 52
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
         },
         {
           "assetStoreId": "e71bd69f896d6c7531b48c65ceb5da25071d4fbdeb518aeceecba8d21f34ed8d",
@@ -1933,16 +2509,7 @@
         "folderName": "__ROOT",
         "children": [
           {
-            "objectName": "Player"
-          },
-          {
-            "objectName": "Ground_Tilemap"
-          },
-          {
             "objectName": "Wall_Obstacle"
-          },
-          {
-            "objectName": "Plant_Obstacle"
           },
           {
             "folderName": "Mobile Controls",
@@ -1958,28 +2525,7 @@
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "SeparateFromObjects"
-              },
-              "parameters": [
-                "Player",
-                "Wall_Obstacle",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "SeparateFromObjects"
-              },
-              "parameters": [
-                "Player",
-                "Plant_Obstacle",
-                ""
-              ]
-            }
-          ]
+          "actions": []
         }
       ],
       "layers": [
@@ -2131,7 +2677,7 @@
           "persistentUuid": "4185e282-63ea-45f6-a06a-5aa3c9cd07e7",
           "width": 0,
           "x": 9,
-          "y": 0,
+          "y": 2,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -2147,7 +2693,7 @@
           "persistentUuid": "55702ded-3c7f-4ba8-8cec-99754bc40d3a",
           "width": 0,
           "x": 65,
-          "y": 0,
+          "y": 3,
           "zOrder": 3,
           "numberProperties": [
             {
@@ -2168,7 +2714,7 @@
           "persistentUuid": "434fd689-ad94-4416-b0fe-2c12b89ee010",
           "width": 0,
           "x": 121,
-          "y": 0,
+          "y": 3,
           "zOrder": 3,
           "numberProperties": [
             {
@@ -2189,7 +2735,7 @@
           "persistentUuid": "a98b5902-b6f7-48ad-a60b-4428612b549e",
           "width": 0,
           "x": 177,
-          "y": 0,
+          "y": 3,
           "zOrder": 3,
           "numberProperties": [
             {
@@ -2210,7 +2756,7 @@
           "persistentUuid": "2375465e-843f-47b0-a095-6bbfc6d2e94e",
           "width": 0,
           "x": 233,
-          "y": 0,
+          "y": 2,
           "zOrder": 3,
           "numberProperties": [
             {
@@ -2231,7 +2777,7 @@
           "persistentUuid": "4142bc4e-ce69-4a89-b9e1-5bd215c27de6",
           "width": 0,
           "x": 289,
-          "y": 0,
+          "y": 3,
           "zOrder": 3,
           "numberProperties": [
             {
@@ -2294,7 +2840,7 @@
           "effects": [],
           "behaviors": [],
           "content": {
-            "atlasImage": "assets\\2D_TopDown_Tileset_Casino_1024x512.png",
+            "atlasImage": "Casino-Game-main\\assets\\2D_TopDown_Tileset_Casino_1024x512.png",
             "rowCount": 64,
             "columnCount": 128,
             "tileSize": 8,
@@ -2564,6 +3110,18 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "SmoothCamera",
+          "type": "SmoothCamera::SmoothCamera"
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
+        },
+        {
+          "name": "TopDownMultitouchMapper",
+          "type": "SpriteMultitouchJoystick::TopDownMultitouchMapper"
         }
       ]
     },
@@ -2589,7 +3147,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.7458023987467801,
+        "zoomFactor": 2.432347728232825,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -4250,6 +4808,18 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "SmoothCamera",
+          "type": "SmoothCamera::SmoothCamera"
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
+        },
+        {
+          "name": "TopDownMultitouchMapper",
+          "type": "SpriteMultitouchJoystick::TopDownMultitouchMapper"
         }
       ]
     },
@@ -5739,6 +6309,18 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "SmoothCamera",
+          "type": "SmoothCamera::SmoothCamera"
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
+        },
+        {
+          "name": "TopDownMultitouchMapper",
+          "type": "SpriteMultitouchJoystick::TopDownMultitouchMapper"
         }
       ]
     },
@@ -7228,6 +7810,565 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "SmoothCamera",
+          "type": "SmoothCamera::SmoothCamera"
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
+        },
+        {
+          "name": "TopDownMultitouchMapper",
+          "type": "SpriteMultitouchJoystick::TopDownMultitouchMapper"
+        }
+      ]
+    },
+    {
+      "b": 255,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Blackjack",
+      "name": "Blackjack",
+      "r": 247,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 249,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridDepth": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridOffsetZ": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 2.0471136140840716,
+        "windowMask": false,
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Doors",
+          "persistentUuid": "6c5dff36-94cb-456c-a017-d56a4d7c107b",
+          "width": 0,
+          "x": 152,
+          "y": 200,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 269,
+          "customSize": true,
+          "depth": 1,
+          "height": 18,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Player",
+          "persistentUuid": "e4e1db8b-885f-4658-913b-f1f2553e604f",
+          "width": 18,
+          "x": 152,
+          "y": 209,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 250,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Floor",
+          "persistentUuid": "3a081faf-598a-4c01-a0a2-96db9132d678",
+          "width": 330,
+          "x": -2,
+          "y": -4,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":2,\"tileHeight\":2,\"dimX\":66,\"dimY\":50,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,23],[24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,47],[48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,71],[72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,95],[96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,119],[120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,143],[144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,167],[168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,191],[192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,215],[216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,239],[240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,263],[264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,287],[288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,311],[312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,335],[336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,359],[360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,383],[384,385,386,387,388,389,390,391,392,393,394,395,396,397,398,399,400,401,402,403,404,405,406,385,386,387,388,389,390,391,392,393,394,395,396,397,398,399,400,401,402,403,404,405,406,385,386,387,388,389,390,391,392,393,394,395,396,397,398,399,400,401,402,403,404,407],[408,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,431],[432,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447,448,449,450,451,452,453,454,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447,448,449,450,451,452,453,454,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447,448,449,450,451,452,455],[456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,479],[480,481,482,483,484,485,486,487,488,489,490,491,492,493,494,495,496,497,498,499,500,501,502,481,482,483,484,485,486,487,488,489,490,491,492,493,494,495,496,497,498,499,500,501,502,481,482,483,484,485,486,487,488,489,490,491,492,493,494,495,496,497,498,499,500,503],[504,505,506,507,508,509,510,511,512,513,514,515,516,517,518,519,520,521,522,523,524,525,526,505,506,507,508,509,510,511,512,513,514,515,516,517,518,519,520,521,522,523,524,525,526,505,506,507,508,509,510,511,512,513,514,515,516,517,518,519,520,521,522,523,524,527],[528,529,530,531,532,533,534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,529,530,531,532,533,534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,529,530,531,532,533,534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,551],[24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,47],[48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,71],[72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,95],[96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,119],[120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,143],[144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,167],[168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,191],[192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,215],[216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,239],[240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,263],[264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,287],[288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,311],[312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,335],[336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,359],[360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,383],[384,385,386,387,388,389,390,391,392,393,394,395,396,397,398,399,400,401,402,403,404,405,406,385,386,387,388,389,390,391,392,393,394,395,396,397,398,399,400,401,402,403,404,405,406,385,386,387,388,389,390,391,392,393,394,395,396,397,398,399,400,401,402,403,404,407],[408,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,431],[432,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447,448,449,450,451,452,453,454,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447,448,449,450,451,452,453,454,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447,448,449,450,451,452,455],[456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,479],[480,481,482,483,484,485,486,487,488,489,490,491,492,493,494,495,496,497,498,499,500,501,502,481,482,483,484,485,486,487,488,489,490,491,492,493,494,495,496,497,498,499,500,501,502,481,482,483,484,485,486,487,488,489,490,491,492,493,494,495,496,497,498,499,500,503],[504,505,506,507,508,509,510,511,512,513,514,515,516,517,518,519,520,521,522,523,524,525,526,505,506,507,508,509,510,511,512,513,514,515,516,517,518,519,520,521,522,523,524,525,526,505,506,507,508,509,510,511,512,513,514,515,516,517,518,519,520,521,522,523,524,527],[528,529,530,531,532,533,534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,529,530,531,532,533,534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,529,530,531,532,533,534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,551],[24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,47],[48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,71],[72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,95],[96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,119],[552,553,554,555,556,557,558,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,553,554,555,556,557,558,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,553,554,555,556,557,558,559,560,561,562,563,564,565,566,567,568,569,570,571,572,575]]}]}"
+            }
+          ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Blackjack_table",
+          "persistentUuid": "f0f1cbe8-2247-43a8-ac94-4cef0cac71d3",
+          "width": 0,
+          "x": 116,
+          "y": 19,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Plant",
+          "persistentUuid": "fa532559-e2d2-4216-a950-27a611d73f99",
+          "width": 0,
+          "x": 247,
+          "y": 9,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Plant",
+          "persistentUuid": "4bb6209c-f537-4e70-ab56-eaf0473446aa",
+          "width": 0,
+          "x": 38,
+          "y": 7,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "name": "Floor",
+          "type": "TileMap::SimpleTileMap",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "atlasImage": "Casino-Game-main\\assets\\2D_TopDown_Tileset_Casino_1024x512.png2",
+            "rowCount": 24,
+            "columnCount": 24,
+            "tileSize": 2,
+            "tilesWithHitBox": ""
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "Blackjack_table",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\2D_TopDown_Tileset_Casino_1024x512.png3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3.5,
+                            "y": 25
+                          },
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 96,
+                            "y": 0
+                          },
+                          {
+                            "x": 94.5,
+                            "y": 19
+                          },
+                          {
+                            "x": 90.5,
+                            "y": 30
+                          },
+                          {
+                            "x": 76,
+                            "y": 43.5
+                          },
+                          {
+                            "x": 57.5,
+                            "y": 50
+                          },
+                          {
+                            "x": 39.5,
+                            "y": 50
+                          },
+                          {
+                            "x": 24.5,
+                            "y": 45.5
+                          },
+                          {
+                            "x": 11.5,
+                            "y": 37
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "Plant",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\2D_TopDown_Tileset_Casino_1024x512.png2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 13,
+                            "y": 59
+                          },
+                          {
+                            "x": 12,
+                            "y": 58
+                          },
+                          {
+                            "x": 11,
+                            "y": 57
+                          },
+                          {
+                            "x": 10,
+                            "y": 55
+                          },
+                          {
+                            "x": 10,
+                            "y": 46
+                          },
+                          {
+                            "x": 11,
+                            "y": 45
+                          },
+                          {
+                            "x": 12,
+                            "y": 44
+                          },
+                          {
+                            "x": 21,
+                            "y": 44
+                          },
+                          {
+                            "x": 24,
+                            "y": 46.5
+                          },
+                          {
+                            "x": 24,
+                            "y": 55
+                          },
+                          {
+                            "x": 23,
+                            "y": 57
+                          },
+                          {
+                            "x": 22,
+                            "y": 58
+                          },
+                          {
+                            "x": 21,
+                            "y": 59
+                          },
+                          {
+                            "x": 20,
+                            "y": 60
+                          },
+                          {
+                            "x": 14,
+                            "y": 60
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "Floor"
+          },
+          {
+            "objectName": "Blackjack_table"
+          },
+          {
+            "objectName": "Plant"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Doors",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Plant",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Blackjack_table",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Doors",
+                "Animation",
+                "=",
+                "\"Door Left\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Doors",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Doors",
+                "Animation",
+                "=",
+                "\"DoorLeft\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"Lobby\""
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "SmoothCamera",
+          "type": "SmoothCamera::SmoothCamera"
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
+        },
+        {
+          "name": "TopDownMultitouchMapper",
+          "type": "SpriteMultitouchJoystick::TopDownMultitouchMapper"
         }
       ]
     }
