@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 258,
+    "build": 254,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -149,6 +149,278 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Multitouch joysticks/10167ade22c4a6b48324e6c1d1bd6dc74179d7bed0775890903f418b4a05c8a1_Flat dark joystick thumb.png",
           "name": "Flat dark joystick thumb.png"
         }
+      },
+      {
+        "file": "assets/2D_TopDown_Tileset_Casino_640x512.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\2D_TopDown_Tileset_Casino_640x512.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/2D_TopDown_Tileset_Casino_1024x512.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\2D_TopDown_Tileset_Casino_1024x512.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Animated Sprite Sheets/BathroomSinkAnimationSheet.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_BathroomSinkAnimationSheet.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_BathroomSinkAnimationSheet2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_BathroomSinkAnimationSheet3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_BathroomSinkAnimationSheet4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_BathroomSinkAnimationSheet5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_BathroomSinkAnimationSheet6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Animated Sprite Sheets/SlotMachinesAnimationSheet_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_1",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_9.png\"}",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_10.png\"}",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_11.png\"}",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_12.png\"}",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_13.png\"}",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_14.png\"}",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_15.png\"}",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_15",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_16.png\"}",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_16",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_17.png\"}",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_17",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_18.png\"}",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_18",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_19.png\"}",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_19",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_20",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_21",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_22",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_23",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_SlotMachinesAnimationSheet_24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_24",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -181,7 +453,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5653158055126329,
+        "zoomFactor": 0.301046119718247,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -915,6 +1187,1332 @@
         {
           "name": "TopDownMultitouchMapper",
           "type": "SpriteMultitouchJoystick::TopDownMultitouchMapper"
+        }
+      ]
+    },
+    {
+      "b": 255,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Shell_32Game",
+      "name": "Shell Game",
+      "r": 247,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 249,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridDepth": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridOffsetZ": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.546875,
+        "windowMask": false,
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Faucet",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 24,
+                          "y": 16.5
+                        },
+                        {
+                          "name": "Point2",
+                          "x": 40,
+                          "y": 16
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 56,
+                        "y": 16
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 27
+                          },
+                          {
+                            "x": 40,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet2",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 24,
+                          "y": 16.5
+                        },
+                        {
+                          "name": "Point2",
+                          "x": 40,
+                          "y": 16
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 56,
+                        "y": 16
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 27
+                          },
+                          {
+                            "x": 40,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet3",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 24,
+                          "y": 16.5
+                        },
+                        {
+                          "name": "Point2",
+                          "x": 40,
+                          "y": 16
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 56,
+                        "y": 16
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 27
+                          },
+                          {
+                            "x": 40,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet4",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 24,
+                          "y": 16.5
+                        },
+                        {
+                          "name": "Point2",
+                          "x": 40,
+                          "y": 16
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 56,
+                        "y": 16
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 27
+                          },
+                          {
+                            "x": 40,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet5",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 24,
+                          "y": 16.5
+                        },
+                        {
+                          "name": "Point2",
+                          "x": 40,
+                          "y": 16
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 56,
+                        "y": 16
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 27
+                          },
+                          {
+                            "x": 40,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet6",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 24,
+                          "y": 16.5
+                        },
+                        {
+                          "name": "Point2",
+                          "x": 40,
+                          "y": 16
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 56,
+                        "y": 16
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 27
+                          },
+                          {
+                            "x": 40,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "winning_slot_machine",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_10",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_11",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_12",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_14",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_16",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_15",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_17",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_18",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_19",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "losing_slot_machine",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_10",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_11",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_12",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_14",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_16",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_20",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_21",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_22",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_23",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_24",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "Faucet"
+          },
+          {
+            "objectName": "winning_slot_machine"
+          },
+          {
+            "objectName": "losing_slot_machine"
+          }
+        ]
+      },
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
         }
       ]
     }
