@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 254,
+    "build": 258,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -22,8 +22,8 @@
     "name": "Casino Game",
     "description": "",
     "author": "",
-    "windowWidth": 1280,
-    "windowHeight": 720,
+    "windowWidth": 320,
+    "windowHeight": 240,
     "latestCompilationDirectory": "",
     "maxFPS": 60,
     "minFPS": 20,
@@ -421,12 +421,892 @@
         "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_24",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/Animated Sprite Sheets/DoorAnimationSheet_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Animated Sprite Sheets\\DoorAnimationSheet_0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Animated Sprite Sheets/DoorAnimationSheet_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Animated Sprite Sheets\\DoorAnimationSheet_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Animated Sprite Sheets/DoorAnimationSheet_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Animated Sprite Sheets\\DoorAnimationSheet_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Animated Sprite Sheets/DoorAnimationSheet_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Animated Sprite Sheets\\DoorAnimationSheet_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Animated Sprite Sheets/DoorAnimationSheet_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Animated Sprite Sheets\\DoorAnimationSheet_4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Animated Sprite Sheets/DoorAnimationSheet_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Animated Sprite Sheets\\DoorAnimationSheet_5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Animated Sprite Sheets/EntranceDoorAnimationSheet.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Animated Sprite Sheets\\EntranceDoorAnimationSheet.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door1",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_DoorAnimationSheet_0.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\DoorAnimationSheet_0",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_DoorAnimationSheet_02.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\DoorAnimationSheet_02",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_DoorAnimationSheet_03.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\DoorAnimationSheet_03",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_DoorAnimationSheet_04.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\DoorAnimationSheet_04",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_DoorAnimationSheet_05.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\DoorAnimationSheet_05",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_DoorAnimationSheet_06.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\DoorAnimationSheet_06",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_DoorAnimationSheet_07.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\DoorAnimationSheet_07",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Animated Sprite Sheets_DoorAnimationSheet_08.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Animated Sprite Sheets\\DoorAnimationSheet_08",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DoorLeft.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "DoorLeft",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DoorLeft2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "DoorLeft2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DoorLeft3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "DoorLeft3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DoorLeft4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "DoorLeft4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DoorLeft5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "DoorLeft5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DoorLeft6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "DoorLeft6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DoorLeft7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "DoorLeft7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door Right.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Right",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door Right2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Right2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door Right3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Right3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door Right4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Right4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door Right5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Right5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door Right6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Right6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door Right7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Right7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Door Right8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Door Right8",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
-  "objects": [],
+  "objects": [
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Doors",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "DoorLeft",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "DoorLeft",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 10
+                      },
+                      {
+                        "x": 20,
+                        "y": 10
+                      },
+                      {
+                        "x": 20,
+                        "y": 48
+                      },
+                      {
+                        "x": 0,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "DoorLeft2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 10
+                      },
+                      {
+                        "x": 20,
+                        "y": 10
+                      },
+                      {
+                        "x": 20,
+                        "y": 48
+                      },
+                      {
+                        "x": 0,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "DoorLeft3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 10
+                      },
+                      {
+                        "x": 20,
+                        "y": 10
+                      },
+                      {
+                        "x": 20,
+                        "y": 48
+                      },
+                      {
+                        "x": 0,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "DoorLeft4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 10
+                      },
+                      {
+                        "x": 20,
+                        "y": 10
+                      },
+                      {
+                        "x": 20,
+                        "y": 48
+                      },
+                      {
+                        "x": 0,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "DoorLeft5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 10
+                      },
+                      {
+                        "x": 20,
+                        "y": 10
+                      },
+                      {
+                        "x": 20,
+                        "y": 48
+                      },
+                      {
+                        "x": 0,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "DoorLeft6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 10
+                      },
+                      {
+                        "x": 20,
+                        "y": 10
+                      },
+                      {
+                        "x": 20,
+                        "y": 48
+                      },
+                      {
+                        "x": 0,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "DoorLeft7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 10
+                      },
+                      {
+                        "x": 20,
+                        "y": 10
+                      },
+                      {
+                        "x": 20,
+                        "y": 48
+                      },
+                      {
+                        "x": 0,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Door Right",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Right",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 315,
+                        "y": 11.5
+                      },
+                      {
+                        "x": 336,
+                        "y": 10.5
+                      },
+                      {
+                        "x": 336,
+                        "y": 48
+                      },
+                      {
+                        "x": 316,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Right2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 315,
+                        "y": 11.5
+                      },
+                      {
+                        "x": 336,
+                        "y": 10.5
+                      },
+                      {
+                        "x": 336,
+                        "y": 48
+                      },
+                      {
+                        "x": 316,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Right3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 315,
+                        "y": 11.5
+                      },
+                      {
+                        "x": 336,
+                        "y": 10.5
+                      },
+                      {
+                        "x": 336,
+                        "y": 48
+                      },
+                      {
+                        "x": 316,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Right4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 315,
+                        "y": 11.5
+                      },
+                      {
+                        "x": 336,
+                        "y": 10.5
+                      },
+                      {
+                        "x": 336,
+                        "y": 48
+                      },
+                      {
+                        "x": 316,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Right5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 315,
+                        "y": 11.5
+                      },
+                      {
+                        "x": 336,
+                        "y": 10.5
+                      },
+                      {
+                        "x": 336,
+                        "y": 48
+                      },
+                      {
+                        "x": 316,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Right6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 315,
+                        "y": 11.5
+                      },
+                      {
+                        "x": 336,
+                        "y": 10.5
+                      },
+                      {
+                        "x": 336,
+                        "y": 48
+                      },
+                      {
+                        "x": 316,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Right7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 315,
+                        "y": 11.5
+                      },
+                      {
+                        "x": 336,
+                        "y": 10.5
+                      },
+                      {
+                        "x": 336,
+                        "y": 48
+                      },
+                      {
+                        "x": 316,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Door Right8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 315,
+                        "y": 11.5
+                      },
+                      {
+                        "x": 336,
+                        "y": 10.5
+                      },
+                      {
+                        "x": 336,
+                        "y": 48
+                      },
+                      {
+                        "x": 316,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "objectsFolderStructure": {
-    "folderName": "__ROOT"
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "Doors"
+      }
+    ]
   },
   "objectsGroups": [],
   "variables": [],
@@ -1193,6 +2073,503 @@
     {
       "b": 255,
       "disableInputWhenNotFocused": true,
+      "mangledName": "Lobby",
+      "name": "Lobby",
+      "r": 247,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 249,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridDepth": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridOffsetZ": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 2.1875,
+        "windowMask": false,
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewTileMap",
+          "persistentUuid": "f0cb241a-e8f0-4985-8fde-4c311aa7b07b",
+          "width": 0,
+          "x": -5,
+          "y": 0,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":8,\"tileHeight\":8,\"dimX\":42,\"dimY\":30,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[6430,6431,6432,6433,6434,6435,6430,6430,6431,6432,6433,6434,6435,6439,6430,6431,6432,6433,6434,6435,6442,6430,6431,6432,6433,6434,6435,6441,6430,6431,6432,6433,6434,6435,6430,6430,6431,6432,6433,6434,6435,6443],[6558,6559,6560,6561,6562,6563,6568,6558,6559,6560,6561,6562,6563,6567,6558,6559,6560,6561,6562,6563,6570,6558,6559,6560,6561,6562,6563,6569,6558,6559,6560,6561,6562,6563,6558,6558,6559,6560,6561,6562,6563,6571],[6686,6687,6688,6689,6690,6691,6696,6686,6687,6688,6689,6690,6691,6695,6686,6687,6688,6689,6690,6691,6698,6686,6687,6688,6689,6690,6691,6697,6686,6687,6688,6689,6690,6691,6686,6686,6687,6688,6689,6690,6691,6699],[6814,6815,6816,6817,6818,6819,6824,6814,6815,6816,6817,6818,6819,6823,6814,6815,6816,6817,6818,6819,6826,6814,6815,6816,6817,6818,6819,6825,6814,6815,6816,6817,6818,6819,6814,6814,6815,6816,6817,6818,6819,6827],[6942,6943,6944,6945,6946,6947,6952,6942,6943,6944,6945,6946,6947,6951,6942,6943,6944,6945,6946,6947,6954,6942,6943,6944,6945,6946,6947,6953,6942,6943,6944,6945,6946,6947,6942,6942,6943,6944,6945,6946,6947,6955],[7070,7071,7072,7073,7074,7075,7080,7070,7071,7072,7073,7074,7075,7079,7070,7071,7072,7073,7074,7075,7082,7070,7071,7072,7073,7074,7075,7081,7070,7071,7072,7073,7074,7075,7070,7070,7071,7072,7073,7074,7075,7083],[12,13,14,15,16,17,4,5,6,7,8,9,12,13,14,15,16,17,4,5,6,7,8,9,12,13,14,15,16,17,4,5,6,7,8,9,12,13,14,15,16,17],[140,141,142,143,144,145,132,133,134,135,136,137,140,141,142,143,144,145,132,133,134,135,136,137,140,141,142,143,144,145,132,133,134,135,136,137,140,141,142,143,144,145],[268,269,532,533,272,273,260,261,262,263,264,265,268,269,532,533,272,273,260,261,262,263,264,265,268,269,532,533,272,273,260,261,262,263,264,265,268,269,532,533,272,273],[396,397,660,661,400,401,388,389,390,391,392,393,396,397,660,661,400,401,388,389,390,391,392,393,396,397,660,661,400,401,388,389,390,391,392,393,396,397,660,661,400,401],[524,525,526,527,528,529,516,517,518,519,520,521,524,525,526,527,528,529,516,517,518,519,520,521,524,525,526,527,528,529,516,517,518,519,520,521,524,525,526,527,528,529],[652,653,654,655,656,657,644,645,646,647,648,649,652,653,654,655,656,657,644,645,646,647,648,649,652,653,654,655,656,657,644,645,646,647,648,649,652,653,654,655,656,657],[4,5,6,7,8,9,12,13,14,15,16,17,4,5,6,7,8,9,12,13,14,15,16,17,4,5,6,7,8,9,12,13,14,15,16,17,4,5,6,7,8,9],[132,133,134,135,136,137,140,141,142,143,144,145,132,133,134,135,136,137,140,141,142,143,144,145,132,133,134,135,136,137,140,141,142,143,144,145,132,133,134,135,136,137],[260,261,262,263,264,265,268,269,536,537,272,273,260,261,262,263,264,265,268,269,536,537,272,273,260,261,262,263,264,265,268,269,536,537,272,273,260,261,262,263,264,265],[388,389,390,391,392,393,396,397,664,665,400,401,388,389,390,391,392,393,396,397,664,665,400,401,388,389,390,391,392,393,396,397,664,665,400,401,388,389,390,391,392,393],[516,517,518,519,520,521,524,525,526,527,528,529,516,517,518,519,520,521,524,525,526,527,528,529,516,517,518,519,520,521,524,525,526,527,528,529,516,517,518,519,520,521],[644,645,646,647,648,649,652,653,654,655,656,657,644,645,646,647,648,649,652,653,654,655,656,657,644,645,646,647,648,649,652,653,654,655,656,657,644,645,646,647,648,649],[12,13,14,15,16,17,4,5,6,7,8,9,12,13,14,15,16,17,4,5,6,7,8,9,12,13,14,15,16,17,4,5,6,7,8,9,12,13,14,15,16,17],[140,141,142,143,144,145,132,133,134,135,136,137,140,141,142,143,144,145,132,133,134,135,136,137,140,141,142,143,144,145,132,133,134,135,136,137,140,141,142,143,144,145],[268,269,532,533,272,273,260,261,262,263,264,265,268,269,532,533,272,273,260,261,262,263,264,265,268,269,532,533,272,273,260,261,262,263,264,265,268,269,532,533,272,273],[396,397,660,661,400,401,388,389,390,391,392,393,396,397,660,661,400,401,388,389,390,391,392,393,396,397,660,661,400,401,388,389,390,391,392,393,396,397,660,661,400,401],[524,525,526,527,528,529,516,517,518,519,520,521,524,525,526,527,528,529,516,517,518,519,520,521,524,525,526,527,528,529,516,517,518,519,520,521,524,525,526,527,528,529],[652,653,654,655,656,657,644,645,646,647,648,649,652,653,654,655,656,657,644,645,646,647,648,649,652,653,654,655,656,657,644,645,646,647,648,649,652,653,654,655,656,657],[4,5,6,7,8,9,12,13,14,15,16,17,4,5,6,7,8,9,12,13,14,15,16,17,4,5,6,7,8,9,12,13,14,15,16,17,4,5,6,7,8,9],[132,133,134,135,136,137,140,141,142,143,144,145,132,133,134,135,136,137,140,141,142,143,144,145,132,133,134,135,136,137,140,141,142,143,144,145,132,133,134,135,136,137],[260,261,262,263,264,265,268,269,536,537,272,273,260,261,262,263,264,265,268,269,536,537,272,273,260,261,262,263,264,265,268,269,536,537,272,273,260,261,262,263,264,265],[388,389,390,391,392,393,396,397,664,665,400,401,388,389,390,391,392,393,396,397,664,665,400,401,388,389,390,391,392,393,396,397,664,665,400,401,388,389,390,391,392,393],[516,517,518,519,520,521,524,525,526,527,528,529,516,517,518,519,520,521,524,525,526,527,528,529,516,517,518,519,520,521,524,525,526,527,528,529,516,517,518,519,520,521],[644,645,646,647,648,649,652,653,654,655,656,657,644,645,646,647,648,649,652,653,654,655,656,657,644,645,646,647,648,649,652,653,654,655,656,657,644,645,646,647,648,649]]}]}"
+            }
+          ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Doors",
+          "name": "Doors",
+          "persistentUuid": "4185e282-63ea-45f6-a06a-5aa3c9cd07e7",
+          "width": 0,
+          "x": 9,
+          "y": 0,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Doors",
+          "name": "Doors",
+          "persistentUuid": "55702ded-3c7f-4ba8-8cec-99754bc40d3a",
+          "width": 0,
+          "x": 65,
+          "y": 0,
+          "zOrder": 3,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 0
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Doors",
+          "name": "Doors",
+          "persistentUuid": "434fd689-ad94-4416-b0fe-2c12b89ee010",
+          "width": 0,
+          "x": 121,
+          "y": 0,
+          "zOrder": 3,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 0
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Doors",
+          "name": "Doors",
+          "persistentUuid": "a98b5902-b6f7-48ad-a60b-4428612b549e",
+          "width": 0,
+          "x": 177,
+          "y": 0,
+          "zOrder": 3,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 0
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Doors",
+          "name": "Doors",
+          "persistentUuid": "2375465e-843f-47b0-a095-6bbfc6d2e94e",
+          "width": 0,
+          "x": 233,
+          "y": 0,
+          "zOrder": 3,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 0
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Doors",
+          "name": "Doors",
+          "persistentUuid": "4142bc4e-ce69-4a89-b9e1-5bd215c27de6",
+          "width": 0,
+          "x": 289,
+          "y": 0,
+          "zOrder": 3,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 0
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Plants and Decor",
+          "name": "NewTileMap",
+          "persistentUuid": "eab4530e-9c6e-4a6b-bd4f-651d1d570be3",
+          "width": 0,
+          "x": -4,
+          "y": 85,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":8,\"tileHeight\":8,\"dimX\":42,\"dimY\":19,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[4688,4689,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4688,4689,-1],[4816,4817,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,252,253,254,255,-1,-1,-1,-1,4816,4817,-1],[4944,4945,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,380,381,382,383,-1,-1,-1,-1,4944,4945,-1],[5072,5073,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,508,509,510,511,-1,-1,-1,-1,5072,5073,-1],[-1,-1,1017,1018,1019,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,636,637,638,639,-1,-1,-1,-1,-1,-1,-1],[-1,-1,1145,1146,1147,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,764,765,766,767,-1,-1,-1,-1,-1,-1,-1],[-1,-1,1273,1274,1275,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,892,893,894,895,-1,-1,-1,-1,-1,-1,-1],[-1,-1,1401,1402,1403,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1020,1021,1022,1023,-1,-1,-1,-1,-1,-1,-1],[-1,-1,1529,1530,1531,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1148,1149,1150,1151,-1,-1,-1,-1,-1,-1,-1],[-1,-1,1657,1658,1659,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1276,1277,1278,1279,-1,-1,-1,-1,-1,-1,-1],[-1,-1,1785,1786,1787,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1404,1405,1406,1407,-1,-1,-1,-1,-1,-1,-1],[5197,5198,1913,1914,1915,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1532,1533,1534,1535,-1,-1,5197,5198,5199,5200,5201],[5325,5326,5327,5328,5329,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1660,1661,1662,1663,-1,-1,5325,5326,5327,5328,5329],[5453,5454,5455,5456,5457,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5453,5454,5455,5456,5457],[5581,5582,5583,5584,5585,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5581,5582,5583,5584,5585],[5709,5710,5711,5712,5713,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5709,5710,5711,5712,5713],[5837,5838,5839,5840,5841,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5837,5838,5839,5840,5841],[5965,5966,5967,5968,5969,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5965,5966,5967,5968,5969],[6093,6094,6095,6096,6097,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6093,6094,6095,6096,6097]]}]}"
+            }
+          ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Plant and decor2",
+          "name": "NewTileMap",
+          "persistentUuid": "efa462e7-f89a-467c-8308-2a2aa2162d5d",
+          "width": 0,
+          "x": 13,
+          "y": 97,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":8,\"tileHeight\":8,\"dimX\":34,\"dimY\":16,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[-1,-1,-1,-1,4694,4695,-1,-1,4696,4697,4698,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[5460,5461,-1,-1,4822,4823,4302,4303,4824,4825,4826,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[5588,5589,-1,-1,4950,4951,4430,4431,4952,4953,4954,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[5716,5717,-1,-1,5078,5079,4558,4559,5080,5081,5082,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[5844,5845,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[5218,5219,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[5346,5347,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,4694,4695,-1,-1,4696,4697,4698,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,240,241,242,243,244,245],[-1,-1,-1,-1,4822,4823,4302,4303,4824,4825,4826,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,368,369,370,371,372,373],[-1,-1,-1,-1,4950,4951,4430,4431,4952,4953,4954,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,496,497,498,499,500,501],[-1,-1,-1,-1,5078,5079,4558,4559,5080,5081,5082,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,624,625,626,627,628,629],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,752,753,754,755,756,757],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,880,881,882,883,884,885],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1008,1009,1010,1011,1012,1013],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1136,1137,1138,1139,1140,1141]]}]}"
+            }
+          ],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "name": "NewTileMap",
+          "type": "TileMap::SimpleTileMap",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "atlasImage": "assets\\2D_TopDown_Tileset_Casino_1024x512.png",
+            "rowCount": 64,
+            "columnCount": 128,
+            "tileSize": 8,
+            "tilesWithHitBox": ""
+          }
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "NewTileMap"
+          }
+        ]
+      },
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Doors",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Plants and Decor",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Plant and decor2",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        }
+      ]
+    },
+    {
+      "b": 255,
+      "disableInputWhenNotFocused": true,
       "mangledName": "Shell_32Game",
       "name": "Shell Game",
       "r": 247,
@@ -1212,14 +2589,193 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.546875,
+        "zoomFactor": 1.7458023987467801,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
       },
       "objectsGroups": [],
       "variables": [],
-      "instances": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewTileMap",
+          "persistentUuid": "4f904725-9eaa-4a66-82de-812f5904c1e4",
+          "width": 0,
+          "x": -4,
+          "y": 0,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":8,\"tileHeight\":8,\"dimX\":41,\"dimY\":30,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[2,3,4,5,6,3,4,5,6,3,4,5,6,3,4,5,6,3,4,5,6,3,4,5,6,3,4,5,6,3,4,5,6,3,4,5,6,3,4,5,7],[82,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,87],[162,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,167],[242,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,247],[322,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,327],[82,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,87],[162,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,167],[242,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,247],[322,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,327],[82,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,87],[162,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,167],[242,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,247],[322,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,327],[82,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,87],[162,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,167],[242,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,247],[322,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,327],[82,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,87],[162,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,167],[242,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,247],[322,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,327],[82,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,87],[162,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,167],[242,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,247],[322,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,327],[82,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,87],[162,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,167],[242,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,247],[322,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,327],[402,403,404,405,406,403,404,405,406,403,404,405,406,403,404,405,406,403,404,405,406,403,404,405,406,403,404,405,406,403,404,405,406,403,404,405,406,403,404,405,407]]}]}"
+            }
+          ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Plants",
+          "name": "NewTileMap",
+          "persistentUuid": "8bbaac52-96c5-43e5-b68f-f7fe92841613",
+          "width": 0,
+          "x": -9,
+          "y": 4,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":8,\"tileHeight\":8,\"dimX\":42,\"dimY\":11,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[1970,1971,1972,1973,1974,1975,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1970,1971,1972,1973,1974,1975],[2050,2051,2052,2053,2054,2055,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2050,2051,2052,2053,2054,2055],[2130,2131,2132,2133,2134,2135,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2130,2131,2132,2133,2134,2135],[2210,2211,2212,2213,2214,2215,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2784,2785,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2210,2211,2212,2213,2214,2215],[2290,2291,2292,2293,2294,2295,-1,-1,-1,-1,-1,-1,-1,-1,1410,1411,1412,1413,-1,-1,2864,2865,1418,1419,1420,1421,1422,1423,-1,-1,-1,-1,-1,-1,-1,-1,2290,2291,2292,2293,2294,2295],[2370,2371,2372,2373,2374,2375,-1,-1,-1,-1,-1,-1,-1,-1,1490,1491,1492,1493,-1,-1,2944,2945,-1,-1,1500,1501,3346,1503,-1,-1,-1,-1,-1,-1,-1,-1,2370,2371,2372,2373,2374,2375],[2450,2451,2452,2453,2454,2455,-1,-1,-1,-1,-1,-1,-1,-1,1570,1571,1572,1573,-1,-1,3024,3025,-1,-1,1580,1581,1582,1583,-1,-1,-1,-1,-1,-1,-1,-1,2450,2451,2452,2453,2454,2455],[2530,2531,2532,2533,2534,2535,-1,-1,-1,-1,-1,-1,-1,-1,1650,1651,1652,1653,1654,1655,1656,1657,1658,1659,1660,1661,1662,1663,-1,-1,-1,-1,-1,-1,-1,-1,2530,2531,2532,2533,2534,2535],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1730,1731,1732,1733,1734,1735,1736,1737,1738,1739,1740,1741,1742,1743,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1810,1811,1812,1813,1814,1815,1816,1817,1818,1819,1820,1821,1822,1823,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1890,1891,1892,1893,1894,1895,1896,1897,1898,1899,1900,1901,1902,1903,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]}]}"
+            }
+          ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 10,
+          "keepRatio": true,
+          "layer": "Cups",
+          "name": "NewTileMap",
+          "persistentUuid": "7128605f-3ef4-42bb-af64-04c5fe70e443",
+          "width": 6,
+          "x": 171,
+          "y": 64,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":8,\"tileHeight\":8,\"dimX\":2,\"dimY\":3,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[3978,3979],[4058,4059],[4138,4139]]}]}"
+            }
+          ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 10,
+          "keepRatio": true,
+          "layer": "Cups",
+          "name": "NewTileMap",
+          "persistentUuid": "432d3416-b85f-4417-97cc-959b190c9cbb",
+          "width": 6,
+          "x": 157,
+          "y": 64,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":8,\"tileHeight\":8,\"dimX\":2,\"dimY\":3,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[3978,3979],[4058,4059],[4138,4139]]}]}"
+            }
+          ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 10,
+          "keepRatio": true,
+          "layer": "Cups",
+          "name": "NewTileMap",
+          "persistentUuid": "942b7d2a-dcc6-4d29-ad3e-6c83386860f4",
+          "width": 6,
+          "x": 141,
+          "y": 64,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":8,\"tileHeight\":8,\"dimX\":2,\"dimY\":3,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[3978,3979],[4058,4059],[4138,4139]]}]}"
+            }
+          ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Layer",
+          "name": "NewTileMap",
+          "persistentUuid": "58ea26ed-9379-4bd3-8632-953d10a0874b",
+          "width": 0,
+          "x": 267,
+          "y": 125,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Layer",
+          "name": "NewTileMap",
+          "persistentUuid": "38146b66-d832-432b-aeaa-6321f3c09bb6",
+          "width": 0,
+          "x": 274,
+          "y": 124,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Layer",
+          "name": "NewTileMap",
+          "persistentUuid": "cb6c2cce-bae2-4eaa-beee-ecb07a0151e0",
+          "width": 0,
+          "x": 254,
+          "y": 119,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 9,
+          "keepRatio": true,
+          "layer": "Ball",
+          "name": "NewTileMap",
+          "persistentUuid": "86e97675-93d6-475d-9081-d9160954c453",
+          "width": 11,
+          "x": 162,
+          "y": 66,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":8,\"tileHeight\":8,\"dimX\":2,\"dimY\":2,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[4939,4940],[5019,5020]]}]}"
+            }
+          ],
+          "initialVariables": []
+        }
+      ],
       "objects": [
         {
           "adaptCollisionMaskAutomatically": true,
@@ -2405,6 +3961,21 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewTileMap",
+          "type": "TileMap::SimpleTileMap",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "atlasImage": "assets\\2D_TopDown_Tileset_Casino_640x512.png",
+            "rowCount": 64,
+            "columnCount": 80,
+            "tileSize": 8,
+            "tilesWithHitBox": ""
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -2418,6 +3989,9 @@
           },
           {
             "objectName": "losing_slot_machine"
+          },
+          {
+            "objectName": "NewTileMap"
           }
         ]
       },
@@ -2450,6 +4024,3147 @@
               "width": 0
             }
           ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Plants",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Cups",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Ball",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "folded": true,
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        }
+      ]
+    },
+    {
+      "b": 255,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Dumb_32Holdem",
+      "name": "Dumb Holdem",
+      "r": 247,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 249,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridDepth": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridOffsetZ": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 1.7458023987467801,
+        "windowMask": false,
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewTileMap",
+          "persistentUuid": "4f904725-9eaa-4a66-82de-812f5904c1e4",
+          "width": 0,
+          "x": -4,
+          "y": 0,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":8,\"tileHeight\":8,\"dimX\":41,\"dimY\":30,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[2,3,4,5,6,3,4,5,6,3,4,5,6,3,4,5,6,3,4,5,6,3,4,5,6,3,4,5,6,3,4,5,6,3,4,5,6,3,4,5,7],[82,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,87],[162,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,167],[242,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,247],[322,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,327],[82,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,87],[162,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,167],[242,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,247],[322,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,327],[82,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,87],[162,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,167],[242,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,247],[322,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,327],[82,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,87],[162,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,167],[242,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,247],[322,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,327],[82,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,87],[162,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,167],[242,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,247],[322,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,327],[82,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,87],[162,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,167],[242,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,247],[322,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,327],[82,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,87],[162,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,167],[242,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,247],[322,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,327],[402,403,404,405,406,403,404,405,406,403,404,405,406,403,404,405,406,403,404,405,406,403,404,405,406,403,404,405,406,403,404,405,406,403,404,405,406,403,404,405,407]]}]}"
+            }
+          ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Plants",
+          "name": "NewTileMap",
+          "persistentUuid": "8bbaac52-96c5-43e5-b68f-f7fe92841613",
+          "width": 0,
+          "x": -9,
+          "y": 4,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":8,\"tileHeight\":8,\"dimX\":42,\"dimY\":11,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[1970,1971,1972,1973,1974,1975,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1970,1971,1972,1973,1974,1975],[2050,2051,2052,2053,2054,2055,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2050,2051,2052,2053,2054,2055],[2130,2131,2132,2133,2134,2135,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2130,2131,2132,2133,2134,2135],[2210,2211,2212,2213,2214,2215,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2210,2211,2212,2213,2214,2215],[2290,2291,2292,2293,2294,2295,-1,-1,-1,-1,-1,-1,-1,-1,-1,3548,3549,3550,3551,3552,3553,3554,3555,3556,3557,3558,3559,-1,-1,-1,-1,-1,-1,-1,-1,-1,2290,2291,2292,2293,2294,2295],[2370,2371,2372,2373,2374,2375,-1,-1,-1,-1,-1,-1,-1,-1,-1,3628,3629,3630,3631,3632,3633,3634,3635,3636,3637,3638,3639,-1,-1,-1,-1,-1,-1,-1,-1,-1,2370,2371,2372,2373,2374,2375],[2450,2451,2452,2453,2454,2455,-1,-1,-1,-1,-1,-1,-1,-1,-1,3708,3709,3710,3711,3712,3713,3714,3715,3716,3717,3718,3719,-1,-1,-1,-1,-1,-1,-1,-1,-1,2450,2451,2452,2453,2454,2455],[2530,2531,2532,2533,2534,2535,-1,-1,-1,-1,-1,-1,-1,-1,-1,3788,3789,3790,3791,3792,3793,3794,3795,3796,3797,3798,3799,-1,-1,-1,-1,-1,-1,-1,-1,-1,2530,2531,2532,2533,2534,2535],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3868,3869,3870,3871,3872,3873,3874,3875,3876,3877,3878,3879,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3948,3949,3950,3951,3952,3953,3954,3955,3956,3957,3958,3959,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4032,4033,4034,4035,4036,4037,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]}]}"
+            }
+          ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Layer",
+          "name": "NewTileMap",
+          "persistentUuid": "58ea26ed-9379-4bd3-8632-953d10a0874b",
+          "width": 0,
+          "x": 267,
+          "y": 125,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Layer",
+          "name": "NewTileMap",
+          "persistentUuid": "38146b66-d832-432b-aeaa-6321f3c09bb6",
+          "width": 0,
+          "x": 274,
+          "y": 124,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Layer",
+          "name": "NewTileMap",
+          "persistentUuid": "cb6c2cce-bae2-4eaa-beee-ecb07a0151e0",
+          "width": 0,
+          "x": 254,
+          "y": 119,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Faucet",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 24,
+                          "y": 16.5
+                        },
+                        {
+                          "name": "Point2",
+                          "x": 40,
+                          "y": 16
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 56,
+                        "y": 16
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 27
+                          },
+                          {
+                            "x": 40,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet2",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 24,
+                          "y": 16.5
+                        },
+                        {
+                          "name": "Point2",
+                          "x": 40,
+                          "y": 16
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 56,
+                        "y": 16
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 27
+                          },
+                          {
+                            "x": 40,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet3",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 24,
+                          "y": 16.5
+                        },
+                        {
+                          "name": "Point2",
+                          "x": 40,
+                          "y": 16
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 56,
+                        "y": 16
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 27
+                          },
+                          {
+                            "x": 40,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet4",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 24,
+                          "y": 16.5
+                        },
+                        {
+                          "name": "Point2",
+                          "x": 40,
+                          "y": 16
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 56,
+                        "y": 16
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 27
+                          },
+                          {
+                            "x": 40,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet5",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 24,
+                          "y": 16.5
+                        },
+                        {
+                          "name": "Point2",
+                          "x": 40,
+                          "y": 16
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 56,
+                        "y": 16
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 27
+                          },
+                          {
+                            "x": 40,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet6",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 24,
+                          "y": 16.5
+                        },
+                        {
+                          "name": "Point2",
+                          "x": 40,
+                          "y": 16
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 56,
+                        "y": 16
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 27
+                          },
+                          {
+                            "x": 40,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "winning_slot_machine",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_10",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_11",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_12",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_14",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_16",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_15",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_17",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_18",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_19",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "losing_slot_machine",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_10",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_11",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_12",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_14",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_16",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_20",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_21",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_22",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_23",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_24",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewTileMap",
+          "type": "TileMap::SimpleTileMap",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "atlasImage": "assets\\2D_TopDown_Tileset_Casino_640x512.png",
+            "rowCount": 64,
+            "columnCount": 80,
+            "tileSize": 8,
+            "tilesWithHitBox": ""
+          }
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "Faucet"
+          },
+          {
+            "objectName": "winning_slot_machine"
+          },
+          {
+            "objectName": "losing_slot_machine"
+          },
+          {
+            "objectName": "NewTileMap"
+          }
+        ]
+      },
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Plants",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        }
+      ]
+    },
+    {
+      "b": 255,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Roulette",
+      "name": "Roulette",
+      "r": 247,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 249,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridDepth": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridOffsetZ": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 1.7458023987467801,
+        "windowMask": false,
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewTileMap",
+          "persistentUuid": "4f904725-9eaa-4a66-82de-812f5904c1e4",
+          "width": 0,
+          "x": -4,
+          "y": 0,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":8,\"tileHeight\":8,\"dimX\":41,\"dimY\":30,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[2,3,4,5,6,3,4,5,6,3,4,5,6,3,4,5,6,3,4,5,6,3,4,5,6,3,4,5,6,3,4,5,6,3,4,5,6,3,4,5,7],[82,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,87],[162,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,167],[242,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,247],[322,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,327],[82,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,87],[162,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,167],[242,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,247],[322,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,327],[82,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,87],[162,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,167],[242,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,247],[322,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,327],[82,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,87],[162,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,167],[242,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,247],[322,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,327],[82,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,87],[162,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,167],[242,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,247],[322,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,327],[82,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,87],[162,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,167],[242,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,247],[322,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,327],[82,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,86,83,84,85,87],[162,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,166,163,164,165,167],[242,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,246,243,244,245,247],[322,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,326,323,324,325,327],[402,403,404,405,406,403,404,405,406,403,404,405,406,403,404,405,406,403,404,405,406,403,404,405,406,403,404,405,406,403,404,405,406,403,404,405,406,403,404,405,407]]}]}"
+            }
+          ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Plants",
+          "name": "NewTileMap",
+          "persistentUuid": "8bbaac52-96c5-43e5-b68f-f7fe92841613",
+          "width": 0,
+          "x": -9,
+          "y": 4,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":8,\"tileHeight\":8,\"dimX\":42,\"dimY\":12,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[1970,1971,1972,1973,1974,1975,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1970,1971,1972,1973,1974,1975],[2050,2051,2052,2053,2054,2055,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2050,2051,2052,2053,2054,2055],[2130,2131,2132,2133,2134,2135,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2130,2131,2132,2133,2134,2135],[2210,2211,2212,2213,2214,2215,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2210,2211,2212,2213,2214,2215],[2290,2291,2292,2293,2294,2295,-1,-1,-1,-1,-1,-1,-1,-1,2116,2117,2118,2119,2120,2121,2122,2123,2124,2125,2126,2127,2128,2129,-1,-1,-1,-1,-1,-1,-1,-1,2290,2291,2292,2293,2294,2295],[2370,2371,2372,2373,2374,2375,-1,-1,-1,-1,-1,-1,-1,-1,2196,2197,2198,2199,2200,2201,2202,2203,2204,2205,2206,2207,2208,2209,-1,-1,-1,-1,-1,-1,-1,-1,2370,2371,2372,2373,2374,2375],[2450,2451,2452,2453,2454,2455,-1,-1,-1,-1,-1,-1,-1,-1,2276,2277,2278,2279,2280,2281,2282,2283,2284,2285,2286,2287,2288,2289,-1,-1,-1,-1,-1,-1,-1,-1,2450,2451,2452,2453,2454,2455],[2530,2531,2532,2533,2534,2535,-1,-1,-1,-1,-1,-1,-1,-1,2356,2357,2358,2359,2360,2361,2362,2363,2364,2365,2366,2367,2368,2369,-1,-1,-1,-1,-1,-1,-1,-1,2530,2531,2532,2533,2534,2535],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2436,2437,2438,2439,2440,2441,2442,2443,2444,2445,2446,2447,2448,2449,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2516,2517,2518,2519,2520,2521,2522,2523,2524,2525,2526,2527,2528,2529,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2596,2597,2598,2599,2600,2601,2602,2603,2604,2605,2606,2607,2608,2609,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2676,2677,2678,2679,2680,2681,2682,2683,2684,2685,2686,2687,2688,2689,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]}]}"
+            }
+          ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Layer",
+          "name": "NewTileMap",
+          "persistentUuid": "58ea26ed-9379-4bd3-8632-953d10a0874b",
+          "width": 0,
+          "x": 267,
+          "y": 125,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Layer",
+          "name": "NewTileMap",
+          "persistentUuid": "38146b66-d832-432b-aeaa-6321f3c09bb6",
+          "width": 0,
+          "x": 274,
+          "y": 124,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Layer",
+          "name": "NewTileMap",
+          "persistentUuid": "cb6c2cce-bae2-4eaa-beee-ecb07a0151e0",
+          "width": 0,
+          "x": 254,
+          "y": 119,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Faucet",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 24,
+                          "y": 16.5
+                        },
+                        {
+                          "name": "Point2",
+                          "x": 40,
+                          "y": 16
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 56,
+                        "y": 16
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 27
+                          },
+                          {
+                            "x": 40,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet2",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 24,
+                          "y": 16.5
+                        },
+                        {
+                          "name": "Point2",
+                          "x": 40,
+                          "y": 16
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 56,
+                        "y": 16
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 27
+                          },
+                          {
+                            "x": 40,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet3",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 24,
+                          "y": 16.5
+                        },
+                        {
+                          "name": "Point2",
+                          "x": 40,
+                          "y": 16
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 56,
+                        "y": 16
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 27
+                          },
+                          {
+                            "x": 40,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet4",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 24,
+                          "y": 16.5
+                        },
+                        {
+                          "name": "Point2",
+                          "x": 40,
+                          "y": 16
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 56,
+                        "y": 16
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 27
+                          },
+                          {
+                            "x": 40,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet5",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 24,
+                          "y": 16.5
+                        },
+                        {
+                          "name": "Point2",
+                          "x": 40,
+                          "y": 16
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 56,
+                        "y": 16
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 27
+                          },
+                          {
+                            "x": 40,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\BathroomSinkAnimationSheet6",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 24,
+                          "y": 16.5
+                        },
+                        {
+                          "name": "Point2",
+                          "x": 40,
+                          "y": 16
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 56,
+                        "y": 16
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 5
+                          },
+                          {
+                            "x": 56,
+                            "y": 27
+                          },
+                          {
+                            "x": 40,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "winning_slot_machine",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_10",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_11",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_12",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_14",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_16",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_15",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_17",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_18",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_19",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "losing_slot_machine",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_10",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_11",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_12",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_14",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_16",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_20",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_21",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_22",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_23",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Animated Sprite Sheets\\SlotMachinesAnimationSheet_24",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 120,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 107
+                          },
+                          {
+                            "x": 136,
+                            "y": 149
+                          },
+                          {
+                            "x": 120,
+                            "y": 149
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewTileMap",
+          "type": "TileMap::SimpleTileMap",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "atlasImage": "assets\\2D_TopDown_Tileset_Casino_640x512.png",
+            "rowCount": 64,
+            "columnCount": 80,
+            "tileSize": 8,
+            "tilesWithHitBox": ""
+          }
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "Faucet"
+          },
+          {
+            "objectName": "winning_slot_machine"
+          },
+          {
+            "objectName": "losing_slot_machine"
+          },
+          {
+            "objectName": "NewTileMap"
+          }
+        ]
+      },
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Plants",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
           "effects": [
             {
               "effectType": "Scene3D::HemisphereLight",
