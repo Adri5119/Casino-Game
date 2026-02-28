@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 258,
+    "build": 259,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -923,6 +923,142 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Door Left13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_2D_TopDown_Tileset_Casino_1024x512.png4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\assets_2D_TopDown_Tileset_Casino_1024x512.png4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "2D_TopDown_Tileset_Casino_1024x512.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "2D_TopDown_Tileset_Casino_1024x512.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/default2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "default",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/default3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "default2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/default4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "default3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/default5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "default4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/default6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "default5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/default6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "default6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/default7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "default7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/default8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "default8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/default9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "default9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/default10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "default10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/default11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "default11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/default12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "default12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/default13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "default13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite3",
         "smoothed": false,
         "userAdded": false
       }
@@ -2173,10 +2309,10 @@
         {
           "name": "SmoothCamera",
           "type": "SmoothCamera::SmoothCamera",
-          "LeftwardSpeed": 0.9,
-          "RightwardSpeed": 0.9,
-          "UpwardSpeed": 0.9,
-          "DownwardSpeed": 0.9,
+          "LeftwardSpeed": 1,
+          "RightwardSpeed": 1,
+          "UpwardSpeed": 1,
+          "DownwardSpeed": 1,
           "FollowOnX": true,
           "FollowOnY": true,
           "FollowFreeAreaLeft": 0,
@@ -2223,18 +2359,18 @@
           "IsCalledManually": false
         },
         {
+          "angularMaxSpeed": 300,
+          "maxSpeed": 90,
           "name": "TopDownMovement",
+          "rotateObject": true,
           "type": "TopDownMovementBehavior::TopDownMovementBehavior",
           "acceleration": 700,
-          "maxSpeed": 300,
-          "angularMaxSpeed": 300,
           "deceleration": 900,
           "allowDiagonals": true,
           "angleOffset": 0,
           "customIsometryAngle": 30,
           "ignoreDefaultControls": false,
           "movementAngleOffset": 0,
-          "rotateObject": true,
           "viewpoint": "TopDown"
         },
         {
@@ -2296,6 +2432,602 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Plant",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "default",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\2D_TopDown_Tileset_Casino_1024x512.png2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 13,
+                        "y": 59
+                      },
+                      {
+                        "x": 12,
+                        "y": 58
+                      },
+                      {
+                        "x": 11,
+                        "y": 57
+                      },
+                      {
+                        "x": 10,
+                        "y": 55
+                      },
+                      {
+                        "x": 10,
+                        "y": 46
+                      },
+                      {
+                        "x": 11,
+                        "y": 45
+                      },
+                      {
+                        "x": 12,
+                        "y": 44
+                      },
+                      {
+                        "x": 21,
+                        "y": 44
+                      },
+                      {
+                        "x": 24,
+                        "y": 46.5
+                      },
+                      {
+                        "x": 24,
+                        "y": 55
+                      },
+                      {
+                        "x": 23,
+                        "y": 57
+                      },
+                      {
+                        "x": 22,
+                        "y": 58
+                      },
+                      {
+                        "x": 21,
+                        "y": 59
+                      },
+                      {
+                        "x": 20,
+                        "y": 60
+                      },
+                      {
+                        "x": 14,
+                        "y": 60
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Trash_Can",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "default",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "default3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 10,
+                        "y": 0
+                      },
+                      {
+                        "x": 10,
+                        "y": 22
+                      },
+                      {
+                        "x": 0,
+                        "y": 22
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Chair_1",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "default",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "default5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 12,
+                        "y": 0
+                      },
+                      {
+                        "x": 12,
+                        "y": 26
+                      },
+                      {
+                        "x": 0,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Chair_2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "default",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "default7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 12,
+                        "y": 0
+                      },
+                      {
+                        "x": 12,
+                        "y": 22
+                      },
+                      {
+                        "x": 0,
+                        "y": 22
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Chair_3",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "default",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "default8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 9
+                      },
+                      {
+                        "x": 3,
+                        "y": 9
+                      },
+                      {
+                        "x": 14,
+                        "y": 9
+                      },
+                      {
+                        "x": 14,
+                        "y": 26
+                      },
+                      {
+                        "x": 0,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Chair_4",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "default",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "default9",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 9
+                      },
+                      {
+                        "x": 14,
+                        "y": 9
+                      },
+                      {
+                        "x": 14,
+                        "y": 26
+                      },
+                      {
+                        "x": 0,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Table",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "default",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "default10",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 18
+                      },
+                      {
+                        "x": 0,
+                        "y": 18
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Void",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite2",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Door_Trigger",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite2",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -2306,6 +3038,33 @@
       },
       {
         "objectName": "Player"
+      },
+      {
+        "objectName": "Plant"
+      },
+      {
+        "objectName": "Trash_Can"
+      },
+      {
+        "objectName": "Chair_1"
+      },
+      {
+        "objectName": "Chair_2"
+      },
+      {
+        "objectName": "Chair_3"
+      },
+      {
+        "objectName": "Chair_4"
+      },
+      {
+        "objectName": "Table"
+      },
+      {
+        "objectName": "Void"
+      },
+      {
+        "objectName": "Door_Trigger"
       }
     ]
   },
@@ -2638,7 +3397,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 2.1875,
+        "zoomFactor": 3.256752481483971,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -2672,11 +3431,11 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Doors",
+          "layer": "",
           "name": "Doors",
-          "persistentUuid": "4185e282-63ea-45f6-a06a-5aa3c9cd07e7",
+          "persistentUuid": "3183feca-2fab-43e1-b181-9af99d923e64",
           "width": 0,
-          "x": 9,
+          "x": 289,
           "y": 2,
           "zOrder": 2,
           "numberProperties": [],
@@ -2688,103 +3447,14 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Doors",
+          "layer": "",
           "name": "Doors",
-          "persistentUuid": "55702ded-3c7f-4ba8-8cec-99754bc40d3a",
-          "width": 0,
-          "x": 65,
-          "y": 3,
-          "zOrder": 3,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 0
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "Doors",
-          "name": "Doors",
-          "persistentUuid": "434fd689-ad94-4416-b0fe-2c12b89ee010",
-          "width": 0,
-          "x": 121,
-          "y": 3,
-          "zOrder": 3,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 0
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "Doors",
-          "name": "Doors",
-          "persistentUuid": "a98b5902-b6f7-48ad-a60b-4428612b549e",
-          "width": 0,
-          "x": 177,
-          "y": 3,
-          "zOrder": 3,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 0
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "Doors",
-          "name": "Doors",
-          "persistentUuid": "2375465e-843f-47b0-a095-6bbfc6d2e94e",
+          "persistentUuid": "1bbcb94c-7410-4767-9db8-a47833485ae7",
           "width": 0,
           "x": 233,
-          "y": 2,
-          "zOrder": 3,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 0
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "Doors",
-          "name": "Doors",
-          "persistentUuid": "4142bc4e-ce69-4a89-b9e1-5bd215c27de6",
-          "width": 0,
-          "x": 289,
           "y": 3,
           "zOrder": 3,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 0
-            }
-          ],
+          "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
@@ -2793,20 +3463,15 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Plants and Decor",
-          "name": "NewTileMap",
-          "persistentUuid": "eab4530e-9c6e-4a6b-bd4f-651d1d570be3",
+          "layer": "",
+          "name": "Doors",
+          "persistentUuid": "a99b02fb-fafe-4086-8f76-e795b5116cfd",
           "width": 0,
-          "x": -4,
-          "y": 85,
+          "x": 177,
+          "y": 2,
           "zOrder": 4,
           "numberProperties": [],
-          "stringProperties": [
-            {
-              "name": "tilemap",
-              "value": "{\"tileWidth\":8,\"tileHeight\":8,\"dimX\":42,\"dimY\":19,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[4688,4689,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4688,4689,-1],[4816,4817,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,252,253,254,255,-1,-1,-1,-1,4816,4817,-1],[4944,4945,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,380,381,382,383,-1,-1,-1,-1,4944,4945,-1],[5072,5073,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,508,509,510,511,-1,-1,-1,-1,5072,5073,-1],[-1,-1,1017,1018,1019,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,636,637,638,639,-1,-1,-1,-1,-1,-1,-1],[-1,-1,1145,1146,1147,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,764,765,766,767,-1,-1,-1,-1,-1,-1,-1],[-1,-1,1273,1274,1275,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,892,893,894,895,-1,-1,-1,-1,-1,-1,-1],[-1,-1,1401,1402,1403,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1020,1021,1022,1023,-1,-1,-1,-1,-1,-1,-1],[-1,-1,1529,1530,1531,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1148,1149,1150,1151,-1,-1,-1,-1,-1,-1,-1],[-1,-1,1657,1658,1659,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1276,1277,1278,1279,-1,-1,-1,-1,-1,-1,-1],[-1,-1,1785,1786,1787,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1404,1405,1406,1407,-1,-1,-1,-1,-1,-1,-1],[5197,5198,1913,1914,1915,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1532,1533,1534,1535,-1,-1,5197,5198,5199,5200,5201],[5325,5326,5327,5328,5329,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1660,1661,1662,1663,-1,-1,5325,5326,5327,5328,5329],[5453,5454,5455,5456,5457,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5453,5454,5455,5456,5457],[5581,5582,5583,5584,5585,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5581,5582,5583,5584,5585],[5709,5710,5711,5712,5713,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5709,5710,5711,5712,5713],[5837,5838,5839,5840,5841,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5837,5838,5839,5840,5841],[5965,5966,5967,5968,5969,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,5965,5966,5967,5968,5969],[6093,6094,6095,6096,6097,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6093,6094,6095,6096,6097]]}]}"
-            }
-          ],
+          "stringProperties": [],
           "initialVariables": []
         },
         {
@@ -2814,20 +3479,359 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Plant and decor2",
-          "name": "NewTileMap",
-          "persistentUuid": "efa462e7-f89a-467c-8308-2a2aa2162d5d",
+          "layer": "",
+          "name": "Doors",
+          "persistentUuid": "32b7696c-2f23-4c91-97e3-06f560e92853",
           "width": 0,
-          "x": 13,
-          "y": 97,
+          "x": 121,
+          "y": 2,
           "zOrder": 5,
           "numberProperties": [],
-          "stringProperties": [
-            {
-              "name": "tilemap",
-              "value": "{\"tileWidth\":8,\"tileHeight\":8,\"dimX\":34,\"dimY\":16,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[-1,-1,-1,-1,4694,4695,-1,-1,4696,4697,4698,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[5460,5461,-1,-1,4822,4823,4302,4303,4824,4825,4826,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[5588,5589,-1,-1,4950,4951,4430,4431,4952,4953,4954,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[5716,5717,-1,-1,5078,5079,4558,4559,5080,5081,5082,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[5844,5845,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[5218,5219,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[5346,5347,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,4694,4695,-1,-1,4696,4697,4698,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,240,241,242,243,244,245],[-1,-1,-1,-1,4822,4823,4302,4303,4824,4825,4826,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,368,369,370,371,372,373],[-1,-1,-1,-1,4950,4951,4430,4431,4952,4953,4954,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,496,497,498,499,500,501],[-1,-1,-1,-1,5078,5079,4558,4559,5080,5081,5082,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,624,625,626,627,628,629],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,752,753,754,755,756,757],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,880,881,882,883,884,885],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1008,1009,1010,1011,1012,1013],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1136,1137,1138,1139,1140,1141]]}]}"
-            }
-          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Doors",
+          "persistentUuid": "6a5261ce-e634-45de-952c-c9535b5830dd",
+          "width": 0,
+          "x": 65,
+          "y": 2,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Doors",
+          "persistentUuid": "20911872-a1a2-44b1-9618-d6901ce171d2",
+          "width": 0,
+          "x": 9,
+          "y": 2,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Slot_Row",
+          "persistentUuid": "efd5e412-ce81-4bce-bcc8-135b3a9c6767",
+          "width": 0,
+          "x": 270,
+          "y": 94,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite",
+          "persistentUuid": "718d474b-2dc9-40e2-8423-338eff0c1bdf",
+          "width": 0,
+          "x": 262,
+          "y": 150,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Plant",
+          "persistentUuid": "30fed8a5-2ad9-4a36-ab65-622ebcb46417",
+          "width": 0,
+          "x": 292,
+          "y": 177,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Plant",
+          "persistentUuid": "1b557fa3-7bcb-4f73-a776-db44c04831c9",
+          "width": 0,
+          "x": -1,
+          "y": 175,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Trash_Can",
+          "persistentUuid": "90f28d3c-4ca8-48fe-8e9e-23820359ac00",
+          "width": 0,
+          "x": -1,
+          "y": 86,
+          "zOrder": 27,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Chair_4",
+          "persistentUuid": "b426fbb8-3652-4226-a941-35e3225a5df1",
+          "width": 0,
+          "x": 77,
+          "y": 164,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Chair_3",
+          "persistentUuid": "c89947c2-9104-46b3-b213-045bff6570ef",
+          "width": 0,
+          "x": 43,
+          "y": 164,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Table",
+          "persistentUuid": "74458d15-56ba-4ae8-bcc5-0d6afee713aa",
+          "width": 0,
+          "x": 59,
+          "y": 170,
+          "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 26,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Chair_3",
+          "persistentUuid": "4357ce2f-90e0-491b-b351-0ebbc224895e",
+          "width": 14,
+          "x": 43,
+          "y": 104,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Table",
+          "persistentUuid": "e2de9e62-0376-4b6f-8717-7a6baba26a9c",
+          "width": 0,
+          "x": 59,
+          "y": 111,
+          "zOrder": 29,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Chair_4",
+          "persistentUuid": "3d5c8d8e-4f2d-4960-aca2-5bd6e9e7ba17",
+          "width": 0,
+          "x": 77,
+          "y": 104,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "dice_desk",
+          "persistentUuid": "1171bd4f-9510-4c56-99c8-b5837188ef8f",
+          "width": 0,
+          "x": 11,
+          "y": 120,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 14,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Dice_Statue",
+          "persistentUuid": "e16e0e52-9227-4925-90f6-f70b7232b265",
+          "width": 10,
+          "x": 14,
+          "y": 118,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 10,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Chips",
+          "persistentUuid": "b2afedbf-62d2-4d4e-91c8-5a099adcd9d7",
+          "width": 10,
+          "x": 15,
+          "y": 137,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 271,
+          "customSize": true,
+          "depth": 1,
+          "height": 15,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Player",
+          "persistentUuid": "afd20dd1-18a7-418e-a727-542fdd7e843b",
+          "width": 16,
+          "x": 155,
+          "y": 208,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 177,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Void",
+          "persistentUuid": "09c59b2b-24cb-44a6-83ba-cf1967c8e3d7",
+          "width": 922,
+          "x": -293,
+          "y": -134,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 437,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Void",
+          "persistentUuid": "0c6ea6c5-39c6-4f50-be6a-8bd9e9401c6f",
+          "width": 292,
+          "x": -296,
+          "y": -39,
+          "zOrder": 34,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 167,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Void",
+          "persistentUuid": "cbdf171d-1b51-4399-8576-3f57a015e8aa",
+          "width": 931,
+          "x": -288,
+          "y": 240,
+          "zOrder": 35,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 400,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Void",
+          "persistentUuid": "3fec0660-9a66-4e92-b2c6-d25c0be50acf",
+          "width": 307,
+          "x": 331,
+          "y": -55,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
           "initialVariables": []
         }
       ],
@@ -2840,12 +3844,384 @@
           "effects": [],
           "behaviors": [],
           "content": {
-            "atlasImage": "Casino-Game-main\\assets\\2D_TopDown_Tileset_Casino_1024x512.png",
+            "atlasImage": "2D_TopDown_Tileset_Casino_1024x512.png",
             "rowCount": 64,
             "columnCount": 128,
             "tileSize": 8,
             "tilesWithHitBox": ""
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "Slot_Row",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "default",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 22.5
+                          },
+                          {
+                            "x": 26,
+                            "y": 22.5
+                          },
+                          {
+                            "x": 26,
+                            "y": 87
+                          },
+                          {
+                            "x": 0,
+                            "y": 87
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "NewSprite",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "default2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 29
+                          },
+                          {
+                            "x": 4.5,
+                            "y": 25
+                          },
+                          {
+                            "x": 5,
+                            "y": 15
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 12.5
+                          },
+                          {
+                            "x": 8.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 13.5,
+                            "y": 1.5
+                          },
+                          {
+                            "x": 18,
+                            "y": 0
+                          },
+                          {
+                            "x": 24,
+                            "y": 0
+                          },
+                          {
+                            "x": 27.5,
+                            "y": 1
+                          },
+                          {
+                            "x": 33,
+                            "y": 4.5
+                          },
+                          {
+                            "x": 34.5,
+                            "y": 12.5
+                          },
+                          {
+                            "x": 37,
+                            "y": 14.5
+                          },
+                          {
+                            "x": 37.5,
+                            "y": 25
+                          },
+                          {
+                            "x": 38.5,
+                            "y": 26.5
+                          },
+                          {
+                            "x": 42,
+                            "y": 29
+                          },
+                          {
+                            "x": 42,
+                            "y": 59
+                          },
+                          {
+                            "x": 0,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "dice_desk",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "default11",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 18,
+                            "y": 0
+                          },
+                          {
+                            "x": 18,
+                            "y": 50
+                          },
+                          {
+                            "x": 0,
+                            "y": 50
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewTileMap2",
+          "type": "TileMap::SimpleTileMap",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "atlasImage": "",
+            "rowCount": 1,
+            "columnCount": 1,
+            "tileSize": 8,
+            "tilesWithHitBox": ""
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Dice_Statue",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "default12",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 14,
+                            "y": 0
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Chips",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "default13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 15,
+                            "y": 0
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 0,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -2853,10 +4229,164 @@
         "children": [
           {
             "objectName": "NewTileMap"
+          },
+          {
+            "objectName": "Slot_Row"
+          },
+          {
+            "objectName": "NewSprite"
+          },
+          {
+            "objectName": "dice_desk"
+          },
+          {
+            "objectName": "NewTileMap2"
+          },
+          {
+            "objectName": "Dice_Statue"
+          },
+          {
+            "objectName": "Chips"
           }
         ]
       },
-      "events": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Slot_Row",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "NewSprite",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Trash_Can",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Chair_3",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Chair_4",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "dice_desk",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Plant",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Table",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Doors",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Void",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Doors",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Blackjack\"",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
       "layers": [
         {
           "ambientLightColorB": 200,
@@ -7847,7 +9377,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 2.0471136140840716,
+        "zoomFactor": 2.6691095993319935,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -7957,6 +9487,91 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 10,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Door_Trigger",
+          "persistentUuid": "280aa65a-4286-47ef-8124-8d665ec74fd3",
+          "width": 20,
+          "x": 153,
+          "y": 217,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 155,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Void",
+          "persistentUuid": "550fec60-abc4-480c-a2ff-5d63bf3f2aed",
+          "width": 789,
+          "x": -200,
+          "y": -158,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 615,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Void",
+          "persistentUuid": "06d599a4-f58e-46e4-80b7-c0412756aecf",
+          "width": 260,
+          "x": 328,
+          "y": -157,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 211,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Void",
+          "persistentUuid": "0fa9b709-7c84-4618-9309-ce0d024ebbf0",
+          "width": 762,
+          "x": -180,
+          "y": 245,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 635,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Void",
+          "persistentUuid": "b533f0ba-99b2-40e0-b1a1-cefbfc65c902",
+          "width": 312,
+          "x": -313,
+          "y": -176,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -8058,110 +9673,6 @@
               ]
             }
           ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "Plant",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "default",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\2D_TopDown_Tileset_Casino_1024x512.png2",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 13,
-                            "y": 59
-                          },
-                          {
-                            "x": 12,
-                            "y": 58
-                          },
-                          {
-                            "x": 11,
-                            "y": 57
-                          },
-                          {
-                            "x": 10,
-                            "y": 55
-                          },
-                          {
-                            "x": 10,
-                            "y": 46
-                          },
-                          {
-                            "x": 11,
-                            "y": 45
-                          },
-                          {
-                            "x": 12,
-                            "y": 44
-                          },
-                          {
-                            "x": 21,
-                            "y": 44
-                          },
-                          {
-                            "x": 24,
-                            "y": 46.5
-                          },
-                          {
-                            "x": 24,
-                            "y": 55
-                          },
-                          {
-                            "x": 23,
-                            "y": 57
-                          },
-                          {
-                            "x": 22,
-                            "y": 58
-                          },
-                          {
-                            "x": 21,
-                            "y": 59
-                          },
-                          {
-                            "x": 20,
-                            "y": 60
-                          },
-                          {
-                            "x": 14,
-                            "y": 60
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
         }
       ],
       "objectsFolderStructure": {
@@ -8172,9 +9683,6 @@
           },
           {
             "objectName": "Blackjack_table"
-          },
-          {
-            "objectName": "Plant"
           }
         ]
       },
@@ -8223,6 +9731,16 @@
                 "=",
                 "\"Door Left\""
               ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Void",
+                ""
+              ]
             }
           ]
         },
@@ -8245,22 +9763,41 @@
           "actions": [
             {
               "type": {
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"Lobby\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Door_Trigger",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
                 "Doors",
                 "Animation",
                 "=",
-                "\"DoorLeft\""
-              ]
-            },
-            {
-              "type": {
-                "value": "PushScene"
-              },
-              "parameters": [
-                "",
-                "\"Lobby\""
+                "\"Door Left\""
               ]
             }
           ]
@@ -8378,6 +9915,7 @@
     {
       "author": "",
       "category": "Input",
+      "dimension": "",
       "extensionNamespace": "",
       "fullName": "Multitouch joystick and buttons (sprite)",
       "gdevelopVersion": ">=5.5.222",
@@ -15986,6 +17524,7 @@
     {
       "author": "",
       "category": "Camera",
+      "dimension": "",
       "extensionNamespace": "",
       "fullName": "Smooth Camera",
       "gdevelopVersion": "",
