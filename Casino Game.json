@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 260,
+    "build": 259,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -41818,8 +41818,8 @@
           "name": "Door_1",
           "persistentUuid": "d3188775-68f6-4ee9-8680-88ab70635ba9",
           "width": 0,
-          "x": 288,
-          "y": 0,
+          "x": 39,
+          "y": -2,
           "zOrder": 37,
           "numberProperties": [],
           "stringProperties": [],
@@ -41834,8 +41834,8 @@
           "name": "Door_2",
           "persistentUuid": "d895a7d6-5f7a-4eba-b873-008d7ea78fbe",
           "width": 0,
-          "x": 233,
-          "y": 0,
+          "x": 96,
+          "y": -3,
           "zOrder": 38,
           "numberProperties": [],
           "stringProperties": [],
@@ -41850,8 +41850,8 @@
           "name": "Door_3",
           "persistentUuid": "fcad7a0e-9cae-4ff9-b4cc-3f0fbf803375",
           "width": 0,
-          "x": 176,
-          "y": 0,
+          "x": 146,
+          "y": -2,
           "zOrder": 39,
           "numberProperties": [],
           "stringProperties": [],
@@ -41866,8 +41866,8 @@
           "name": "Door_4",
           "persistentUuid": "8e9ca433-e68e-4858-b7ff-978061324c23",
           "width": 0,
-          "x": 121,
-          "y": 0,
+          "x": 194,
+          "y": -3,
           "zOrder": 40,
           "numberProperties": [],
           "stringProperties": [],
@@ -41882,8 +41882,8 @@
           "name": "Door_5",
           "persistentUuid": "21532486-7a96-41b6-bf75-6cabc776257f",
           "width": 0,
-          "x": 64,
-          "y": -1,
+          "x": 241,
+          "y": -3,
           "zOrder": 41,
           "numberProperties": [],
           "stringProperties": [],
@@ -41898,8 +41898,8 @@
           "name": "Door_6",
           "persistentUuid": "ce476866-5101-4609-8702-7de27dd2c803",
           "width": 0,
-          "x": 9,
-          "y": -1,
+          "x": 291,
+          "y": -3,
           "zOrder": 42,
           "numberProperties": [],
           "stringProperties": [],
@@ -43099,6 +43099,34 @@
               },
               "parameters": [
                 "Player",
+                "Door_2",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"Shell Game\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
                 "Door_3",
                 "",
                 "",
@@ -43119,6 +43147,91 @@
           ]
         },
         {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Door_4",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"Dumb Holdem\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Table",
+                "Door_5",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"Roulette\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Door_6",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"Blackjack\""
+              ]
+            }
+          ]
+        },
+        {
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
