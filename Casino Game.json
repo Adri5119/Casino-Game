@@ -3306,6 +3306,22 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/Jazz/dfd8e0b69a74e32d64faedd74611124f6dfcfcad7f36726630d4c181e31685a4_Drop Point.aac",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "file": "assets/Male Character 12_Walking Down_1.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Male Character 12_Walking Down_1.png\",\"extension\":\".png\"}",
+        "name": "assets\\Male Character 12_Walking Down_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Male Character 12_Walking Down_1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\Male Character 12_Walking Down_1",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -4546,6 +4562,7 @@
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "Plant",
+      "persistentUuid": "2abd7ec5-5347-4eaf-9666-f54c1bdc082c",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -4650,6 +4667,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "Trash_Can",
+      "persistentUuid": "ebfea224-92ca-40ac-b49d-8676a7695c0a",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -42183,6 +42201,708 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Blackjack_table",
+      "persistentUuid": "d7f97989-f083-4e45-ac23-81fe1e59111a",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "default",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\2D_TopDown_Tileset_Casino_1024x512.png3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3.5,
+                        "y": 25
+                      },
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 96,
+                        "y": 0
+                      },
+                      {
+                        "x": 94.5,
+                        "y": 19
+                      },
+                      {
+                        "x": 90.5,
+                        "y": 30
+                      },
+                      {
+                        "x": 76,
+                        "y": 43.5
+                      },
+                      {
+                        "x": 57.5,
+                        "y": 50
+                      },
+                      {
+                        "x": 39.5,
+                        "y": 50
+                      },
+                      {
+                        "x": 24.5,
+                        "y": 45.5
+                      },
+                      {
+                        "x": 11.5,
+                        "y": 37
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "eee3b0c7d131657892d095b11450c13585c280de5da8a2cc88752dd692cd9871",
+      "name": "Dealer_1",
+      "persistentUuid": "b94673dc-5af8-488f-b0f1-7cf4c77361c4",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Walking Right",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 8_Walking Right_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 17
+                      },
+                      {
+                        "x": 3,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 8_Walking Right_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 17
+                      },
+                      {
+                        "x": 3,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 8_Walking Right_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 17
+                      },
+                      {
+                        "x": 3,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Walking Down",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 8_Walking Down_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 17
+                      },
+                      {
+                        "x": 3,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 8_Walking Down_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 17
+                      },
+                      {
+                        "x": 3,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 8_Walking Down_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 17
+                      },
+                      {
+                        "x": 3,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Walking Left",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 8_Walking Left_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 17
+                      },
+                      {
+                        "x": 3,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 8_Walking Left_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 17
+                      },
+                      {
+                        "x": 3,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 8_Walking Left_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 17
+                      },
+                      {
+                        "x": 3,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Walking Up",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 8_Walking Up_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 17
+                      },
+                      {
+                        "x": 3,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 8_Walking Up_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 17
+                      },
+                      {
+                        "x": 3,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Male Character 8_Walking Up_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 17
+                      },
+                      {
+                        "x": 3,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "NPC",
+      "persistentUuid": "7302302d-71db-4b04-9c6a-12b3679905c3",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "assets\\Male Character 12_Walking Down_1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Male Character 12_Walking Down_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 1
+                      },
+                      {
+                        "x": 14,
+                        "y": 1
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "NPC1",
+      "persistentUuid": "53c8ebef-8651-488f-8946-bfe3aef54ac3",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "assets\\Male Character 12_Walking Down_1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Male Character 12_Walking Down_1",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 1
+                      },
+                      {
+                        "x": 14,
+                        "y": 1
+                      },
+                      {
+                        "x": 14,
+                        "y": 17
+                      },
+                      {
+                        "x": 2,
+                        "y": 17
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -42237,6 +42957,9 @@
         "objectName": "Door_Trigger"
       },
       {
+        "objectName": "Blackjack_table"
+      },
+      {
         "objectName": "Player"
       },
       {
@@ -42286,6 +43009,15 @@
       },
       {
         "objectName": "Chips"
+      },
+      {
+        "objectName": "Dealer_1"
+      },
+      {
+        "objectName": "NPC"
+      },
+      {
+        "objectName": "NPC1"
       }
     ]
   },
@@ -43217,498 +43949,6 @@
         },
         {
           "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "eee3b0c7d131657892d095b11450c13585c280de5da8a2cc88752dd692cd9871",
-          "name": "Dealer_1",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "Walking Right",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.25,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Male Character 8_Walking Right_1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 2
-                          },
-                          {
-                            "x": 13,
-                            "y": 2
-                          },
-                          {
-                            "x": 13,
-                            "y": 17
-                          },
-                          {
-                            "x": 3,
-                            "y": 17
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Male Character 8_Walking Right_2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 2
-                          },
-                          {
-                            "x": 13,
-                            "y": 2
-                          },
-                          {
-                            "x": 13,
-                            "y": 17
-                          },
-                          {
-                            "x": 3,
-                            "y": 17
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Male Character 8_Walking Right_3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 2
-                          },
-                          {
-                            "x": 13,
-                            "y": 2
-                          },
-                          {
-                            "x": 13,
-                            "y": 17
-                          },
-                          {
-                            "x": 3,
-                            "y": 17
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Walking Down",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.25,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Male Character 8_Walking Down_1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 2
-                          },
-                          {
-                            "x": 13,
-                            "y": 2
-                          },
-                          {
-                            "x": 13,
-                            "y": 17
-                          },
-                          {
-                            "x": 3,
-                            "y": 17
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Male Character 8_Walking Down_2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 2
-                          },
-                          {
-                            "x": 13,
-                            "y": 2
-                          },
-                          {
-                            "x": 13,
-                            "y": 17
-                          },
-                          {
-                            "x": 3,
-                            "y": 17
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Male Character 8_Walking Down_3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 2
-                          },
-                          {
-                            "x": 13,
-                            "y": 2
-                          },
-                          {
-                            "x": 13,
-                            "y": 17
-                          },
-                          {
-                            "x": 3,
-                            "y": 17
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Walking Left",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.25,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Male Character 8_Walking Left_1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 2
-                          },
-                          {
-                            "x": 13,
-                            "y": 2
-                          },
-                          {
-                            "x": 13,
-                            "y": 17
-                          },
-                          {
-                            "x": 3,
-                            "y": 17
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Male Character 8_Walking Left_2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 2
-                          },
-                          {
-                            "x": 13,
-                            "y": 2
-                          },
-                          {
-                            "x": 13,
-                            "y": 17
-                          },
-                          {
-                            "x": 3,
-                            "y": 17
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Male Character 8_Walking Left_3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 2
-                          },
-                          {
-                            "x": 13,
-                            "y": 2
-                          },
-                          {
-                            "x": 13,
-                            "y": 17
-                          },
-                          {
-                            "x": 3,
-                            "y": 17
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Walking Up",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.25,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Male Character 8_Walking Up_1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 2
-                          },
-                          {
-                            "x": 13,
-                            "y": 2
-                          },
-                          {
-                            "x": 13,
-                            "y": 17
-                          },
-                          {
-                            "x": 3,
-                            "y": 17
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Male Character 8_Walking Up_2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 2
-                          },
-                          {
-                            "x": 13,
-                            "y": 2
-                          },
-                          {
-                            "x": 13,
-                            "y": 17
-                          },
-                          {
-                            "x": 3,
-                            "y": 17
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Male Character 8_Walking Up_3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 2
-                          },
-                          {
-                            "x": 13,
-                            "y": 2
-                          },
-                          {
-                            "x": 13,
-                            "y": 17
-                          },
-                          {
-                            "x": 3,
-                            "y": 17
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "SlotSymbol",
           "type": "Sprite",
@@ -44027,6 +44267,7 @@
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "BlackJackSymbol",
+          "persistentUuid": "55cecff7-138c-4282-8372-6307aea0ffca",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -44121,9 +44362,6 @@
           },
           {
             "objectName": "NewTileMap"
-          },
-          {
-            "objectName": "Dealer_1"
           },
           {
             "objectName": "SlotSymbol"
@@ -47162,27 +47400,6 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Plants",
-          "name": "NewTileMap",
-          "persistentUuid": "8bbaac52-96c5-43e5-b68f-f7fe92841613",
-          "width": 0,
-          "x": -9,
-          "y": 4,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [
-            {
-              "name": "tilemap",
-              "value": "{\"tileWidth\":8,\"tileHeight\":8,\"dimX\":42,\"dimY\":11,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[1970,1971,1972,1973,1974,1975,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1970,1971,1972,1973,1974,1975],[2050,2051,2052,2053,2054,2055,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2050,2051,2052,2053,2054,2055],[2130,2131,2132,2133,2134,2135,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2130,2131,2132,2133,2134,2135],[2210,2211,2212,2213,2214,2215,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2210,2211,2212,2213,2214,2215],[2290,2291,2292,2293,2294,2295,-1,-1,-1,-1,-1,-1,-1,-1,-1,3548,3549,3550,3551,3552,3553,3554,3555,3556,3557,3558,3559,-1,-1,-1,-1,-1,-1,-1,-1,-1,2290,2291,2292,2293,2294,2295],[2370,2371,2372,2373,2374,2375,-1,-1,-1,-1,-1,-1,-1,-1,-1,3628,3629,3630,3631,3632,3633,3634,3635,3636,3637,3638,3639,-1,-1,-1,-1,-1,-1,-1,-1,-1,2370,2371,2372,2373,2374,2375],[2450,2451,2452,2453,2454,2455,-1,-1,-1,-1,-1,-1,-1,-1,-1,3708,3709,3710,3711,3712,3713,3714,3715,3716,3717,3718,3719,-1,-1,-1,-1,-1,-1,-1,-1,-1,2450,2451,2452,2453,2454,2455],[2530,2531,2532,2533,2534,2535,-1,-1,-1,-1,-1,-1,-1,-1,-1,3788,3789,3790,3791,3792,3793,3794,3795,3796,3797,3798,3799,-1,-1,-1,-1,-1,-1,-1,-1,-1,2530,2531,2532,2533,2534,2535],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3868,3869,3870,3871,3872,3873,3874,3875,3876,3877,3878,3879,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3948,3949,3950,3951,3952,3953,3954,3955,3956,3957,3958,3959,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4032,4033,4034,4035,4036,4037,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]}]}"
-            }
-          ],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
           "layer": "Layer",
           "name": "NewTileMap",
           "persistentUuid": "58ea26ed-9379-4bd3-8632-953d10a0874b",
@@ -47238,7 +47455,172 @@
           "width": 33,
           "x": 151,
           "y": 151,
-          "zOrder": 7,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Blackjack_table",
+          "persistentUuid": "18c44a5d-cae9-4610-9f93-49b2bb9934a2",
+          "width": 0,
+          "x": 111,
+          "y": 41,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Plant",
+          "persistentUuid": "f4b9b5e6-788f-442f-a930-1dfc94e13462",
+          "width": 0,
+          "x": 284,
+          "y": 7,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Plant",
+          "persistentUuid": "53bbf5d9-2839-4607-a61b-2cce5fb30fc1",
+          "width": 0,
+          "x": 4,
+          "y": 10,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 515,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Void",
+          "persistentUuid": "250366f9-3b61-4e70-9a2b-5bee5aa476d3",
+          "width": 274,
+          "x": 321,
+          "y": -188,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 197,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Void",
+          "persistentUuid": "7b3a32f6-6003-4178-9d4e-af4d387f550e",
+          "width": 532,
+          "x": -137,
+          "y": -196,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 515,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Void",
+          "persistentUuid": "df57d4d3-995f-4715-93c7-6e90dca22a45",
+          "width": 274,
+          "x": -274,
+          "y": -114,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 197,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Void",
+          "persistentUuid": "5d1513b2-71c3-41b5-b1fc-c9a1f9c7b4d5",
+          "width": 532,
+          "x": -108,
+          "y": 239,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Door_3",
+          "persistentUuid": "0edacc60-69f6-40ff-8c77-2cc121b523f2",
+          "width": 0,
+          "x": 155,
+          "y": 195,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Trash_Can",
+          "persistentUuid": "3343f36a-af2a-4709-845f-246c0f53ebfd",
+          "width": 0,
+          "x": 305,
+          "y": 209,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 33,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NPC",
+          "persistentUuid": "013bbe39-3bc9-4e8b-8930-83c372966325",
+          "width": 38,
+          "x": 138,
+          "y": 12,
+          "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -48433,6 +48815,7 @@
         {
           "assetStoreId": "",
           "name": "NewTileMap",
+          "persistentUuid": "68112626-9c56-4291-a7c7-b625b77b0160",
           "type": "TileMap::SimpleTileMap",
           "variables": [],
           "effects": [],
@@ -48466,24 +48849,6 @@
       "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-              },
-              "parameters": [
-                "Money2",
-                "Text",
-                "=",
-                "\"$\"+Money"
-              ]
-            }
-          ]
-        },
-        {
-          "folded": true,
-          "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
@@ -48492,7 +48857,7 @@
               "parameters": [
                 "Player",
                 "TopDownMovement",
-                "90",
+                "270",
                 "89"
               ]
             }
@@ -48506,7 +48871,7 @@
                 "Player",
                 "Animation",
                 "=",
-                "\"Walking Down\""
+                "\"Walking Up\""
               ]
             },
             {
@@ -48552,9 +48917,155 @@
                     "Player",
                     "Animation",
                     "=",
-                    "\"Standing Down\""
+                    "\"Standing Up\""
                   ]
                 }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Door_3",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Plant",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Blackjack_table",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "NPC",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Door_3",
+                "Animation",
+                "=",
+                "\"Door Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Void",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "Money2",
+                "Text",
+                "=",
+                "\"$\"+Money"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResumeSoundChannel"
+              },
+              "parameters": [
+                "",
+                "Plant.Animation::Duration()"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Door_3",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Lobby\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Door_Trigger",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Door_3",
+                "Animation",
+                "=",
+                "\"Door Left\""
               ]
             }
           ]
@@ -48723,7 +49234,7 @@
               "parameters": [
                 "Player",
                 "TopDownMovement",
-                "270",
+                "90",
                 "89"
               ]
             }
@@ -48737,7 +49248,7 @@
                 "Player",
                 "Animation",
                 "=",
-                "\"Walking Up\""
+                "\"Walking Down\""
               ]
             },
             {
@@ -48783,9 +49294,102 @@
                     "Player",
                     "Animation",
                     "=",
-                    "\"Standing Up\""
+                    "\"Standing Down\""
                   ]
                 }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Blackjack_table",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"Space\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Dumb Holdem Game\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundOnChannel"
+              },
+              "parameters": [
+                "",
+                "533b4dc132bc430e4bf54c27ea6be11a359f54490128e855f4ba4d42c7ca8a25_A Good Bass for Gambling.aac",
+                "Cards.Animation::Duration()",
+                "yes",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PauseSoundChannel"
+              },
+              "parameters": [
+                "",
+                "Plant.Animation::Duration()"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Money",
+                "<=",
+                "0"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Game Over\"",
+                ""
               ]
             }
           ]
@@ -48878,6 +49482,147 @@
           "renderingType": "",
           "visibility": true,
           "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "SmoothCamera",
+          "type": "SmoothCamera::SmoothCamera"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
+        }
+      ]
+    },
+    {
+      "b": 255,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Dumb_32Holdem_32Game",
+      "name": "Dumb Holdem Game",
+      "r": 247,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 249,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridDepth": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridOffsetZ": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 2.1875,
+        "windowMask": false,
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [],
+      "objects": [],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT"
+      },
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
           "effects": [
             {
               "effectType": "Scene3D::HemisphereLight",
@@ -50868,7 +51613,7 @@
           "persistentUuid": "f0f1cbe8-2247-43a8-ac94-4cef0cac71d3",
           "width": 0,
           "x": 116,
-          "y": 19,
+          "y": 25,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -51024,6 +51769,23 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 28,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NPC1",
+          "persistentUuid": "7dea5b94-9913-439e-93c0-2ec5e4007c7a",
+          "width": 38,
+          "x": 144,
+          "y": 1,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -51041,90 +51803,6 @@
             "tileSize": 2,
             "tilesWithHitBox": ""
           }
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "Blackjack_table",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "default",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\2D_TopDown_Tileset_Casino_1024x512.png3",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3.5,
-                            "y": 25
-                          },
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 96,
-                            "y": 0
-                          },
-                          {
-                            "x": 94.5,
-                            "y": 19
-                          },
-                          {
-                            "x": 90.5,
-                            "y": 30
-                          },
-                          {
-                            "x": 76,
-                            "y": 43.5
-                          },
-                          {
-                            "x": 57.5,
-                            "y": 50
-                          },
-                          {
-                            "x": 39.5,
-                            "y": 50
-                          },
-                          {
-                            "x": 24.5,
-                            "y": 45.5
-                          },
-                          {
-                            "x": 11.5,
-                            "y": 37
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
         }
       ],
       "objectsFolderStructure": {
@@ -51132,9 +51810,6 @@
         "children": [
           {
             "objectName": "Floor"
-          },
-          {
-            "objectName": "Blackjack_table"
           }
         ]
       },
@@ -51170,6 +51845,16 @@
               "parameters": [
                 "Player",
                 "Blackjack_table",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "NPC1",
                 ""
               ]
             },
@@ -79556,6 +80241,7 @@
           "bold": false,
           "italic": false,
           "name": "NewText",
+          "persistentUuid": "75750aa6-a737-47e3-8f13-33d162ab538b",
           "smoothed": true,
           "type": "TextObject::Text",
           "underlined": false,
