@@ -44198,6 +44198,39 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Layer",
+          "name": "NPC1",
+          "persistentUuid": "8d27c02a-3c4a-47c4-aff1-6efff40c5b3a",
+          "width": 0,
+          "x": 223,
+          "y": 179,
+          "zOrder": 62,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 29,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NPC1",
+          "persistentUuid": "f5d5411e-0a18-4e49-9a63-9fab3f78947b",
+          "width": 30,
+          "x": 172,
+          "y": 212,
+          "zOrder": 63,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -45732,6 +45765,16 @@
               "parameters": [
                 "Player",
                 "Dealer_1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "NPC1",
                 ""
               ]
             },
