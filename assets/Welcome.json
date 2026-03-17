@@ -4,8 +4,128 @@
 		"tags": "",
 		"body": "Use X key to scroll.\r\nThe Veritas Casino never closes.\r\nThe lights hum overhead as you step through the doors, clutching the last of your chips. \r\nSomewhere out there, people are waiting for the money you owe. \r\nPeople who don’t like waiting.\r\nThe casino floor stretches endlessly before you with slots ringing, cards shuffling, dice rolling. \r\nFortune changes hands here every minute.\r\nThe House has only one rule:\r\nPlay fair. Earn trust.\r\nBut you didn’t come here to be fair.\r\nYou came here to win and escape.\r\nThe House will let you know if they like you. Build trust, escape faster.\r\nUse Arrow Keys to move.\r\nSpace Bar to interact.\r\nEscape Key to escape.",
 		"position": {
-			"x": 384,
-			"y": 164
+			"x": -73,
+			"y": -75
+		},
+		"colorID": 0
+	},
+	{
+		"title": "1",
+		"tags": "",
+		"body": "Welcome to the Veritas Casino. New faces always make things interesting. Just remember, the House watches everything.",
+		"position": {
+			"x": 195,
+			"y": -115
+		},
+		"colorID": 0
+	},
+	{
+		"title": "2",
+		"tags": "",
+		"body": "Back again? That’s good to see. Most people lose once and disappear.",
+		"position": {
+			"x": 432,
+			"y": -32
+		},
+		"colorID": 0
+	},
+	{
+		"title": "3",
+		"tags": "",
+		"body": "You’re starting to look like a regular around here.",
+		"position": {
+			"x": 620,
+			"y": -7
+		},
+		"colorID": 0
+	},
+	{
+		"title": "4",
+		"tags": "",
+		"body": "Still playing? I admire persistence. The House respects players who keep coming back.",
+		"position": {
+			"x": -75,
+			"y": 198
+		},
+		"colorID": 0
+	},
+	{
+		"title": "5",
+		"tags": "",
+		"body": "You’ve been doing well tonight. The floor manager mentioned you.",
+		"position": {
+			"x": 193,
+			"y": 188
+		},
+		"colorID": 0
+	},
+	{
+		"title": "6",
+		"tags": "",
+		"body": "I’ve been hearing good things about you from the dealers. Seems like you play a clean game.",
+		"position": {
+			"x": 449,
+			"y": 233
+		},
+		"colorID": 0
+	},
+	{
+		"title": "7",
+		"tags": "",
+		"body": "Always a pleasure seeing you walk through those doors. Some of the tables are starting to open up for you.",
+		"position": {
+			"x": -65,
+			"y": 419
+		},
+		"colorID": 0
+	},
+	{
+		"title": "8",
+		"tags": "",
+		"body": "You’ve earned quite a reputation tonight. The House trusts players like you.",
+		"position": {
+			"x": 168,
+			"y": 369
+		},
+		"colorID": 0
+	},
+	{
+		"title": "9",
+		"tags": "",
+		"body": "Most players never make it this far without raising eyebrows. You must be doing something right.",
+		"position": {
+			"x": 357,
+			"y": 408
+		},
+		"colorID": 0
+	},
+	{
+		"title": "10",
+		"tags": "",
+		"body": "Well, look who it is. One of our most trusted guests. The casino floor is yours tonight.",
+		"position": {
+			"x": 635,
+			"y": 280
+		},
+		"colorID": 0
+	},
+	{
+		"title": "GuardTrust",
+		"tags": "",
+		"body": "The guard stands by the exit, arms crossed as you approach.\r\nHe studies you for a long moment before stepping aside.\r\n“Not many people walk out of here with the House still trusting them.”\r\nHe opens the door.\r\n“Whatever you did in there… the casino never saw a thing.”",
+		"position": {
+			"x": 312,
+			"y": -333
+		},
+		"colorID": 0
+	},
+	{
+		"title": "GuardNotTrust",
+		"tags": "",
+		"body": "You still owe a lotta money chap. You aren't getting out of here that easily.",
+		"position": {
+			"x": 111,
+			"y": -308
 		},
 		"colorID": 0
 	}

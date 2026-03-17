@@ -1,0 +1,22 @@
+[
+	{
+		"title": "Trust",
+		"tags": "",
+		"body": "You’ve got a sharp eye for cards. \nMakes dealing to you a lot more fun.",
+		"position": {
+			"x": 570,
+			"y": 353
+		},
+		"colorID": 0
+	},
+	{
+		"title": "NotTrust",
+		"tags": "",
+		"body": "Cards are honest here. \nYou either play the odds… \nor the odds play you.",
+		"position": {
+			"x": 360,
+			"y": 337
+		},
+		"colorID": 0
+	}
+]

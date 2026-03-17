@@ -1,0 +1,22 @@
+[
+	{
+		"title": "Trust",
+		"tags": "",
+		"body": "You’ve got a lucky rhythm going. \nFunny thing about these machines… \nthey seem to like you.",
+		"position": {
+			"x": 568,
+			"y": 343
+		},
+		"colorID": 0
+	},
+	{
+		"title": "NotTrust",
+		"tags": "",
+		"body": "First time here? Slots are simple, just pull the lever and hope the House feels generous.",
+		"position": {
+			"x": 275,
+			"y": 323
+		},
+		"colorID": 0
+	}
+]

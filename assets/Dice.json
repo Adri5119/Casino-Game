@@ -1,0 +1,22 @@
+[
+	{
+		"title": "NotTrust",
+		"tags": "",
+		"body": "Dice don’t care about your luck or your story. \nRoll and let the House decide.",
+		"position": {
+			"x": 594,
+			"y": 312
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Trust",
+		"tags": "",
+		"body": "Every time you step up to this table, something interesting happens.",
+		"position": {
+			"x": 859,
+			"y": 318
+		},
+		"colorID": 8
+	}
+]
