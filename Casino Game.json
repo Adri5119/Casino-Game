@@ -44191,26 +44191,10 @@
           "layer": "Layer",
           "name": "Trust2",
           "persistentUuid": "c709c154-ab2e-451f-a2fc-2b5223a605e8",
-          "width": 36,
-          "x": 280,
+          "width": 41,
+          "x": 277,
           "y": 17,
           "zOrder": 61,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "Layer",
-          "name": "NPC1",
-          "persistentUuid": "8d27c02a-3c4a-47c4-aff1-6efff40c5b3a",
-          "width": 0,
-          "x": 223,
-          "y": 179,
-          "zOrder": 62,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -45453,7 +45437,7 @@
                   },
                   "parameters": [
                     "Trust",
-                    "=",
+                    ">=",
                     "10"
                   ]
                 }
@@ -46135,7 +46119,7 @@
                       },
                       "parameters": [
                         "Trust",
-                        "=",
+                        ">=",
                         "10"
                       ]
                     }
@@ -86123,8 +86107,8 @@
           "name": "Quittxt",
           "persistentUuid": "7fba0259-cfc2-4319-b5cc-c2a1227f2d4d",
           "width": 0,
-          "x": 215,
-          "y": 175,
+          "x": 207,
+          "y": 174,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -86346,7 +86330,7 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Quit",
+          "string": "Credits",
           "font": "",
           "textAlignment": "left",
           "characterSize": 15,
@@ -86369,7 +86353,7 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "Quit",
+            "text": "Credits",
             "font": "",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
